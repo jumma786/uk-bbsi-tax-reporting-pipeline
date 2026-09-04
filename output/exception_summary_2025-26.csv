@@ -1,0 +1,5 @@
+check,severity,holders,pct_of_population
+address_incomplete,advisory,966,2.415
+dob_missing,advisory,465,1.162
+nino_missing,blocking,1227,3.068
+nino_malformed,blocking,737,1.842

@@ -1,0 +1,3396 @@
+holder_id,check,detail,severity
+H0000012,nino_malformed,NINO fails structure: bad_format,blocking
+H0000013,address_incomplete,missing address_line_1,advisory
+H0000020,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0000021,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0000025,dob_missing,date_of_birth='',advisory
+H0000050,address_incomplete,missing address_line_1,advisory
+H0000058,nino_missing,NINO absent,blocking
+H0000058,dob_missing,date_of_birth='',advisory
+H0000076,nino_missing,NINO absent,blocking
+H0000106,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0000132,address_incomplete,missing postcode,advisory
+H0000161,dob_missing,date_of_birth='',advisory
+H0000188,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0000193,nino_malformed,NINO fails structure: bad_format,blocking
+H0000207,nino_missing,NINO absent,blocking
+H0000221,dob_missing,date_of_birth='',advisory
+H0000225,nino_missing,NINO absent,blocking
+H0000243,address_incomplete,missing postcode,advisory
+H0000259,dob_missing,date_of_birth='',advisory
+H0000265,address_incomplete,missing address_line_1,advisory
+H0000282,address_incomplete,missing postcode,advisory
+H0000300,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0000302,address_incomplete,missing postcode,advisory
+H0000331,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0000394,nino_missing,NINO absent,blocking
+H0000396,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0000405,address_incomplete,missing address_line_1,advisory
+H0000415,nino_missing,NINO absent,blocking
+H0000429,nino_missing,NINO absent,blocking
+H0000434,address_incomplete,missing address_line_1,advisory
+H0000493,nino_missing,NINO absent,blocking
+H0000544,dob_missing,date_of_birth='',advisory
+H0000552,nino_missing,NINO absent,blocking
+H0000554,nino_missing,NINO absent,blocking
+H0000564,dob_missing,date_of_birth='',advisory
+H0000581,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0000584,nino_missing,NINO absent,blocking
+H0000609,dob_missing,date_of_birth='',advisory
+H0000611,dob_missing,date_of_birth='',advisory
+H0000633,nino_missing,NINO absent,blocking
+H0000636,nino_missing,NINO absent,blocking
+H0000639,nino_missing,NINO absent,blocking
+H0000643,nino_malformed,NINO fails structure: bad_format,blocking
+H0000652,address_incomplete,missing address_line_1,advisory
+H0000655,nino_missing,NINO absent,blocking
+H0000661,nino_malformed,NINO fails structure: bad_format,blocking
+H0000693,nino_malformed,NINO fails structure: bad_format,blocking
+H0000700,dob_missing,date_of_birth='',advisory
+H0000750,address_incomplete,missing address_line_1,advisory
+H0000758,address_incomplete,missing postcode,advisory
+H0000770,nino_missing,NINO absent,blocking
+H0000774,nino_missing,NINO absent,blocking
+H0000779,nino_missing,NINO absent,blocking
+H0000789,address_incomplete,missing address_line_1,advisory
+H0000793,dob_missing,date_of_birth='',advisory
+H0000809,nino_missing,NINO absent,blocking
+H0000816,address_incomplete,missing address_line_1,advisory
+H0000826,nino_malformed,NINO fails structure: bad_format,blocking
+H0000828,dob_missing,date_of_birth='',advisory
+H0000836,nino_missing,NINO absent,blocking
+H0000843,nino_missing,NINO absent,blocking
+H0000864,nino_missing,NINO absent,blocking
+H0000877,nino_missing,NINO absent,blocking
+H0000880,nino_missing,NINO absent,blocking
+H0000916,nino_malformed,NINO fails structure: bad_format,blocking
+H0000920,nino_missing,NINO absent,blocking
+H0000928,address_incomplete,missing address_line_1,advisory
+H0000935,nino_malformed,NINO fails structure: bad_format,blocking
+H0000937,dob_missing,date_of_birth='',advisory
+H0000938,nino_missing,NINO absent,blocking
+H0000978,nino_missing,NINO absent,blocking
+H0001000,address_incomplete,missing address_line_1,advisory
+H0001023,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0001024,address_incomplete,missing address_line_1,advisory
+H0001029,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0001036,address_incomplete,missing address_line_1,advisory
+H0001047,address_incomplete,missing address_line_1,advisory
+H0001063,nino_missing,NINO absent,blocking
+H0001069,nino_missing,NINO absent,blocking
+H0001088,dob_missing,date_of_birth='',advisory
+H0001114,address_incomplete,missing postcode,advisory
+H0001134,address_incomplete,missing postcode,advisory
+H0001145,nino_malformed,NINO fails structure: bad_format,blocking
+H0001155,dob_missing,date_of_birth='',advisory
+H0001183,dob_missing,date_of_birth='',advisory
+H0001189,address_incomplete,missing address_line_1,advisory
+H0001199,address_incomplete,missing postcode,advisory
+H0001206,nino_missing,NINO absent,blocking
+H0001212,address_incomplete,missing postcode,advisory
+H0001222,dob_missing,date_of_birth='',advisory
+H0001231,nino_missing,NINO absent,blocking
+H0001240,nino_missing,NINO absent,blocking
+H0001248,address_incomplete,missing address_line_1,advisory
+H0001257,dob_missing,date_of_birth='',advisory
+H0001278,nino_missing,NINO absent,blocking
+H0001290,address_incomplete,missing address_line_1,advisory
+H0001292,nino_missing,NINO absent,blocking
+H0001310,nino_malformed,NINO fails structure: bad_format,blocking
+H0001332,dob_missing,date_of_birth='',advisory
+H0001335,nino_missing,NINO absent,blocking
+H0001336,address_incomplete,missing address_line_1,advisory
+H0001343,nino_missing,NINO absent,blocking
+H0001345,nino_missing,NINO absent,blocking
+H0001345,address_incomplete,missing postcode,advisory
+H0001346,nino_missing,NINO absent,blocking
+H0001362,address_incomplete,missing postcode,advisory
+H0001373,address_incomplete,missing postcode,advisory
+H0001378,address_incomplete,missing address_line_1,advisory
+H0001396,nino_missing,NINO absent,blocking
+H0001398,nino_missing,NINO absent,blocking
+H0001399,address_incomplete,missing postcode,advisory
+H0001418,dob_missing,date_of_birth='',advisory
+H0001418,address_incomplete,missing postcode,advisory
+H0001438,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0001448,nino_missing,NINO absent,blocking
+H0001455,dob_missing,date_of_birth='',advisory
+H0001456,address_incomplete,missing address_line_1,advisory
+H0001476,nino_missing,NINO absent,blocking
+H0001480,address_incomplete,missing address_line_1,advisory
+H0001485,nino_malformed,NINO fails structure: bad_format,blocking
+H0001490,dob_missing,date_of_birth='',advisory
+H0001517,dob_missing,date_of_birth='',advisory
+H0001527,nino_malformed,NINO fails structure: bad_format,blocking
+H0001541,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0001547,nino_malformed,NINO fails structure: bad_format,blocking
+H0001559,nino_missing,NINO absent,blocking
+H0001569,nino_missing,NINO absent,blocking
+H0001572,dob_missing,date_of_birth='',advisory
+H0001582,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0001587,address_incomplete,missing postcode,advisory
+H0001600,address_incomplete,missing address_line_1,advisory
+H0001603,address_incomplete,missing address_line_1,advisory
+H0001609,nino_missing,NINO absent,blocking
+H0001615,address_incomplete,missing postcode,advisory
+H0001619,nino_missing,NINO absent,blocking
+H0001633,nino_missing,NINO absent,blocking
+H0001640,nino_missing,NINO absent,blocking
+H0001643,address_incomplete,missing postcode,advisory
+H0001644,nino_missing,NINO absent,blocking
+H0001648,address_incomplete,missing postcode,advisory
+H0001723,dob_missing,date_of_birth='',advisory
+H0001724,address_incomplete,missing address_line_1,advisory
+H0001727,address_incomplete,missing postcode,advisory
+H0001742,nino_missing,NINO absent,blocking
+H0001744,address_incomplete,missing address_line_1,advisory
+H0001770,nino_missing,NINO absent,blocking
+H0001781,nino_missing,NINO absent,blocking
+H0001783,nino_missing,NINO absent,blocking
+H0001787,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0001799,nino_malformed,NINO fails structure: bad_format,blocking
+H0001829,dob_missing,date_of_birth='',advisory
+H0001836,dob_missing,date_of_birth='',advisory
+H0001843,nino_missing,NINO absent,blocking
+H0001849,nino_missing,NINO absent,blocking
+H0001857,address_incomplete,missing address_line_1,advisory
+H0001863,nino_missing,NINO absent,blocking
+H0001866,nino_missing,NINO absent,blocking
+H0001871,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0001872,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0001902,address_incomplete,missing postcode,advisory
+H0001908,address_incomplete,missing address_line_1,advisory
+H0001918,address_incomplete,missing address_line_1,advisory
+H0001922,address_incomplete,missing address_line_1,advisory
+H0001925,nino_malformed,NINO fails structure: bad_format,blocking
+H0001930,nino_missing,NINO absent,blocking
+H0001962,dob_missing,date_of_birth='',advisory
+H0002014,nino_malformed,NINO fails structure: bad_format,blocking
+H0002020,address_incomplete,missing address_line_1,advisory
+H0002070,address_incomplete,missing address_line_1,advisory
+H0002071,nino_malformed,NINO fails structure: bad_format,blocking
+H0002101,nino_missing,NINO absent,blocking
+H0002110,address_incomplete,missing address_line_1,advisory
+H0002112,dob_missing,date_of_birth='',advisory
+H0002114,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0002126,address_incomplete,missing postcode,advisory
+H0002137,nino_missing,NINO absent,blocking
+H0002137,dob_missing,date_of_birth='',advisory
+H0002161,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0002163,address_incomplete,missing postcode,advisory
+H0002170,address_incomplete,missing address_line_1,advisory
+H0002187,address_incomplete,missing postcode,advisory
+H0002195,nino_missing,NINO absent,blocking
+H0002202,dob_missing,date_of_birth='',advisory
+H0002208,address_incomplete,missing address_line_1,advisory
+H0002209,nino_missing,NINO absent,blocking
+H0002222,nino_missing,NINO absent,blocking
+H0002244,dob_missing,date_of_birth='',advisory
+H0002244,address_incomplete,missing address_line_1,advisory
+H0002258,address_incomplete,missing address_line_1,advisory
+H0002270,nino_missing,NINO absent,blocking
+H0002303,nino_malformed,NINO fails structure: bad_format,blocking
+H0002306,nino_missing,NINO absent,blocking
+H0002322,nino_missing,NINO absent,blocking
+H0002346,address_incomplete,missing address_line_1,advisory
+H0002351,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0002360,nino_missing,NINO absent,blocking
+H0002376,nino_malformed,NINO fails structure: bad_format,blocking
+H0002377,nino_missing,NINO absent,blocking
+H0002400,address_incomplete,missing postcode,advisory
+H0002412,nino_missing,NINO absent,blocking
+H0002418,address_incomplete,missing address_line_1,advisory
+H0002426,address_incomplete,missing address_line_1,advisory
+H0002429,address_incomplete,missing postcode,advisory
+H0002432,address_incomplete,missing address_line_1,advisory
+H0002445,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0002450,address_incomplete,missing address_line_1,advisory
+H0002451,address_incomplete,missing postcode,advisory
+H0002456,nino_missing,NINO absent,blocking
+H0002475,nino_malformed,NINO fails structure: bad_format,blocking
+H0002484,nino_missing,NINO absent,blocking
+H0002517,nino_missing,NINO absent,blocking
+H0002555,nino_missing,NINO absent,blocking
+H0002558,nino_missing,NINO absent,blocking
+H0002566,nino_missing,NINO absent,blocking
+H0002584,address_incomplete,missing postcode,advisory
+H0002589,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0002603,address_incomplete,missing address_line_1,advisory
+H0002606,nino_missing,NINO absent,blocking
+H0002606,address_incomplete,missing postcode,advisory
+H0002624,dob_missing,date_of_birth='',advisory
+H0002627,address_incomplete,missing address_line_1,advisory
+H0002640,nino_missing,NINO absent,blocking
+H0002673,nino_missing,NINO absent,blocking
+H0002713,nino_missing,NINO absent,blocking
+H0002714,nino_missing,NINO absent,blocking
+H0002731,nino_missing,NINO absent,blocking
+H0002731,dob_missing,date_of_birth='',advisory
+H0002733,nino_missing,NINO absent,blocking
+H0002750,nino_missing,NINO absent,blocking
+H0002770,nino_missing,NINO absent,blocking
+H0002778,nino_missing,NINO absent,blocking
+H0002799,dob_missing,date_of_birth='',advisory
+H0002800,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0002821,nino_missing,NINO absent,blocking
+H0002839,nino_malformed,NINO fails structure: bad_format,blocking
+H0002844,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0002850,nino_missing,NINO absent,blocking
+H0002866,address_incomplete,missing address_line_1,advisory
+H0002880,nino_missing,NINO absent,blocking
+H0002897,nino_missing,NINO absent,blocking
+H0002905,nino_missing,NINO absent,blocking
+H0002908,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0002908,dob_missing,date_of_birth='',advisory
+H0002912,nino_malformed,NINO fails structure: bad_format,blocking
+H0002921,nino_missing,NINO absent,blocking
+H0002948,address_incomplete,missing address_line_1,advisory
+H0002957,address_incomplete,missing postcode,advisory
+H0002991,nino_missing,NINO absent,blocking
+H0002995,address_incomplete,missing address_line_1,advisory
+H0003036,address_incomplete,missing postcode,advisory
+H0003046,nino_missing,NINO absent,blocking
+H0003047,address_incomplete,missing postcode,advisory
+H0003056,address_incomplete,missing address_line_1,advisory
+H0003059,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0003063,nino_missing,NINO absent,blocking
+H0003064,address_incomplete,missing postcode,advisory
+H0003066,nino_missing,NINO absent,blocking
+H0003077,nino_missing,NINO absent,blocking
+H0003104,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0003122,nino_missing,NINO absent,blocking
+H0003130,nino_malformed,NINO fails structure: bad_format,blocking
+H0003132,nino_malformed,NINO fails structure: bad_format,blocking
+H0003134,dob_missing,date_of_birth='',advisory
+H0003146,dob_missing,date_of_birth='',advisory
+H0003173,address_incomplete,missing address_line_1,advisory
+H0003183,nino_missing,NINO absent,blocking
+H0003187,address_incomplete,missing address_line_1,advisory
+H0003188,nino_missing,NINO absent,blocking
+H0003198,nino_missing,NINO absent,blocking
+H0003208,address_incomplete,missing address_line_1,advisory
+H0003209,nino_missing,NINO absent,blocking
+H0003227,dob_missing,date_of_birth='',advisory
+H0003230,address_incomplete,missing address_line_1,advisory
+H0003234,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0003235,dob_missing,date_of_birth='',advisory
+H0003237,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0003245,address_incomplete,missing postcode,advisory
+H0003248,address_incomplete,missing postcode,advisory
+H0003253,dob_missing,date_of_birth='',advisory
+H0003256,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0003258,address_incomplete,missing postcode,advisory
+H0003261,address_incomplete,missing address_line_1,advisory
+H0003267,address_incomplete,missing postcode,advisory
+H0003274,address_incomplete,missing address_line_1,advisory
+H0003280,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0003296,nino_missing,NINO absent,blocking
+H0003299,dob_missing,date_of_birth='',advisory
+H0003306,dob_missing,date_of_birth='',advisory
+H0003308,nino_missing,NINO absent,blocking
+H0003314,address_incomplete,missing postcode,advisory
+H0003330,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0003340,nino_malformed,NINO fails structure: bad_format,blocking
+H0003344,dob_missing,date_of_birth='',advisory
+H0003434,nino_missing,NINO absent,blocking
+H0003453,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0003460,address_incomplete,missing postcode,advisory
+H0003463,nino_missing,NINO absent,blocking
+H0003482,nino_malformed,NINO fails structure: bad_format,blocking
+H0003487,address_incomplete,missing postcode,advisory
+H0003491,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0003514,nino_missing,NINO absent,blocking
+H0003516,nino_malformed,NINO fails structure: bad_format,blocking
+H0003524,nino_missing,NINO absent,blocking
+H0003524,dob_missing,date_of_birth='',advisory
+H0003540,dob_missing,date_of_birth='',advisory
+H0003561,nino_missing,NINO absent,blocking
+H0003564,nino_malformed,NINO fails structure: bad_format,blocking
+H0003569,nino_missing,NINO absent,blocking
+H0003572,dob_missing,date_of_birth='',advisory
+H0003597,nino_malformed,NINO fails structure: bad_format,blocking
+H0003625,nino_malformed,NINO fails structure: bad_format,blocking
+H0003628,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0003628,dob_missing,date_of_birth='',advisory
+H0003654,nino_missing,NINO absent,blocking
+H0003659,address_incomplete,missing address_line_1,advisory
+H0003664,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0003673,dob_missing,date_of_birth='',advisory
+H0003723,nino_missing,NINO absent,blocking
+H0003730,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0003755,nino_missing,NINO absent,blocking
+H0003769,nino_missing,NINO absent,blocking
+H0003786,dob_missing,date_of_birth='',advisory
+H0003790,dob_missing,date_of_birth='',advisory
+H0003801,address_incomplete,missing postcode,advisory
+H0003808,address_incomplete,missing postcode,advisory
+H0003825,nino_missing,NINO absent,blocking
+H0003834,nino_malformed,NINO fails structure: bad_format,blocking
+H0003889,nino_missing,NINO absent,blocking
+H0003897,nino_missing,NINO absent,blocking
+H0003910,nino_malformed,NINO fails structure: bad_format,blocking
+H0003919,address_incomplete,missing postcode,advisory
+H0003920,address_incomplete,missing postcode,advisory
+H0003922,nino_missing,NINO absent,blocking
+H0003928,nino_missing,NINO absent,blocking
+H0003930,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0003931,dob_missing,date_of_birth='',advisory
+H0003940,address_incomplete,missing postcode,advisory
+H0003943,nino_missing,NINO absent,blocking
+H0003943,dob_missing,date_of_birth='',advisory
+H0003946,nino_missing,NINO absent,blocking
+H0003950,nino_missing,NINO absent,blocking
+H0003951,nino_malformed,NINO fails structure: bad_format,blocking
+H0003986,address_incomplete,missing postcode,advisory
+H0003993,address_incomplete,missing postcode,advisory
+H0003996,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0004003,nino_missing,NINO absent,blocking
+H0004024,dob_missing,date_of_birth='',advisory
+H0004028,nino_missing,NINO absent,blocking
+H0004035,address_incomplete,missing postcode,advisory
+H0004075,nino_missing,NINO absent,blocking
+H0004076,nino_malformed,NINO fails structure: bad_format,blocking
+H0004105,nino_missing,NINO absent,blocking
+H0004113,dob_missing,date_of_birth='',advisory
+H0004122,address_incomplete,missing address_line_1,advisory
+H0004132,dob_missing,date_of_birth='',advisory
+H0004137,nino_missing,NINO absent,blocking
+H0004139,nino_missing,NINO absent,blocking
+H0004154,nino_malformed,NINO fails structure: bad_format,blocking
+H0004158,address_incomplete,missing postcode,advisory
+H0004214,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0004232,nino_malformed,NINO fails structure: bad_format,blocking
+H0004250,nino_missing,NINO absent,blocking
+H0004260,dob_missing,date_of_birth='',advisory
+H0004274,nino_malformed,NINO fails structure: bad_format,blocking
+H0004277,dob_missing,date_of_birth='',advisory
+H0004323,dob_missing,date_of_birth='',advisory
+H0004340,address_incomplete,missing address_line_1,advisory
+H0004358,nino_malformed,NINO fails structure: bad_format,blocking
+H0004398,address_incomplete,missing address_line_1,advisory
+H0004404,address_incomplete,missing address_line_1,advisory
+H0004422,nino_malformed,NINO fails structure: bad_format,blocking
+H0004436,dob_missing,date_of_birth='',advisory
+H0004440,nino_missing,NINO absent,blocking
+H0004443,nino_malformed,NINO fails structure: bad_format,blocking
+H0004446,nino_malformed,NINO fails structure: bad_format,blocking
+H0004493,address_incomplete,missing address_line_1,advisory
+H0004495,nino_malformed,NINO fails structure: bad_format,blocking
+H0004501,nino_missing,NINO absent,blocking
+H0004518,nino_missing,NINO absent,blocking
+H0004523,nino_missing,NINO absent,blocking
+H0004536,address_incomplete,missing address_line_1,advisory
+H0004538,nino_missing,NINO absent,blocking
+H0004555,nino_missing,NINO absent,blocking
+H0004558,address_incomplete,missing address_line_1,advisory
+H0004561,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0004595,dob_missing,date_of_birth='',advisory
+H0004595,address_incomplete,missing postcode,advisory
+H0004607,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0004622,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0004631,address_incomplete,missing postcode,advisory
+H0004639,nino_missing,NINO absent,blocking
+H0004671,nino_missing,NINO absent,blocking
+H0004674,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0004698,nino_missing,NINO absent,blocking
+H0004724,nino_missing,NINO absent,blocking
+H0004728,address_incomplete,missing address_line_1,advisory
+H0004737,nino_missing,NINO absent,blocking
+H0004746,dob_missing,date_of_birth='',advisory
+H0004754,address_incomplete,missing address_line_1,advisory
+H0004771,nino_missing,NINO absent,blocking
+H0004782,nino_missing,NINO absent,blocking
+H0004788,dob_missing,date_of_birth='',advisory
+H0004792,address_incomplete,missing postcode,advisory
+H0004802,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0004806,address_incomplete,missing address_line_1,advisory
+H0004823,address_incomplete,missing postcode,advisory
+H0004829,nino_missing,NINO absent,blocking
+H0004856,address_incomplete,missing postcode,advisory
+H0004865,nino_missing,NINO absent,blocking
+H0004867,nino_malformed,NINO fails structure: bad_format,blocking
+H0004901,address_incomplete,missing address_line_1,advisory
+H0004903,address_incomplete,missing postcode,advisory
+H0004906,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0004910,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0004912,nino_missing,NINO absent,blocking
+H0004965,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0004979,address_incomplete,missing address_line_1,advisory
+H0004981,address_incomplete,missing postcode,advisory
+H0004989,nino_missing,NINO absent,blocking
+H0004995,nino_missing,NINO absent,blocking
+H0004999,nino_malformed,NINO fails structure: bad_format,blocking
+H0005006,address_incomplete,missing address_line_1,advisory
+H0005009,address_incomplete,missing address_line_1,advisory
+H0005018,nino_missing,NINO absent,blocking
+H0005031,nino_missing,NINO absent,blocking
+H0005033,address_incomplete,missing postcode,advisory
+H0005040,nino_missing,NINO absent,blocking
+H0005075,nino_malformed,NINO fails structure: bad_format,blocking
+H0005089,nino_malformed,NINO fails structure: bad_format,blocking
+H0005098,address_incomplete,missing address_line_1,advisory
+H0005125,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0005130,address_incomplete,missing address_line_1,advisory
+H0005150,nino_malformed,NINO fails structure: bad_format,blocking
+H0005166,nino_missing,NINO absent,blocking
+H0005170,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0005179,nino_missing,NINO absent,blocking
+H0005181,dob_missing,date_of_birth='',advisory
+H0005193,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0005195,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0005206,address_incomplete,missing postcode,advisory
+H0005216,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0005224,dob_missing,date_of_birth='',advisory
+H0005228,nino_missing,NINO absent,blocking
+H0005232,nino_missing,NINO absent,blocking
+H0005237,nino_malformed,NINO fails structure: bad_format,blocking
+H0005259,dob_missing,date_of_birth='',advisory
+H0005263,nino_missing,NINO absent,blocking
+H0005271,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0005296,nino_malformed,NINO fails structure: bad_format,blocking
+H0005307,address_incomplete,missing postcode,advisory
+H0005340,address_incomplete,missing address_line_1,advisory
+H0005343,dob_missing,date_of_birth='',advisory
+H0005349,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0005358,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0005363,nino_missing,NINO absent,blocking
+H0005366,nino_missing,NINO absent,blocking
+H0005371,dob_missing,date_of_birth='',advisory
+H0005393,address_incomplete,missing postcode,advisory
+H0005399,nino_malformed,NINO fails structure: bad_format,blocking
+H0005425,address_incomplete,missing address_line_1,advisory
+H0005435,address_incomplete,missing address_line_1,advisory
+H0005445,nino_missing,NINO absent,blocking
+H0005450,nino_missing,NINO absent,blocking
+H0005453,nino_malformed,NINO fails structure: bad_format,blocking
+H0005457,nino_missing,NINO absent,blocking
+H0005460,nino_missing,NINO absent,blocking
+H0005468,address_incomplete,missing address_line_1,advisory
+H0005475,address_incomplete,missing address_line_1,advisory
+H0005511,nino_missing,NINO absent,blocking
+H0005536,nino_malformed,NINO fails structure: bad_format,blocking
+H0005539,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0005558,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0005567,nino_malformed,NINO fails structure: bad_format,blocking
+H0005572,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0005583,address_incomplete,missing postcode,advisory
+H0005584,nino_missing,NINO absent,blocking
+H0005586,nino_missing,NINO absent,blocking
+H0005590,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0005618,nino_missing,NINO absent,blocking
+H0005634,address_incomplete,missing postcode,advisory
+H0005637,address_incomplete,missing address_line_1,advisory
+H0005646,nino_missing,NINO absent,blocking
+H0005676,address_incomplete,missing postcode,advisory
+H0005680,dob_missing,date_of_birth='',advisory
+H0005682,dob_missing,date_of_birth='',advisory
+H0005684,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0005687,nino_missing,NINO absent,blocking
+H0005695,nino_missing,NINO absent,blocking
+H0005731,nino_missing,NINO absent,blocking
+H0005748,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0005759,address_incomplete,missing postcode,advisory
+H0005802,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0005815,nino_missing,NINO absent,blocking
+H0005819,address_incomplete,missing address_line_1,advisory
+H0005822,nino_missing,NINO absent,blocking
+H0005841,nino_missing,NINO absent,blocking
+H0005844,address_incomplete,missing address_line_1,advisory
+H0005858,dob_missing,date_of_birth='',advisory
+H0005870,address_incomplete,missing postcode,advisory
+H0005875,nino_missing,NINO absent,blocking
+H0005882,nino_missing,NINO absent,blocking
+H0005882,address_incomplete,missing address_line_1,advisory
+H0005886,nino_missing,NINO absent,blocking
+H0005887,address_incomplete,missing address_line_1,advisory
+H0005891,address_incomplete,missing postcode,advisory
+H0005904,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0005905,address_incomplete,missing address_line_1,advisory
+H0005906,address_incomplete,missing address_line_1,advisory
+H0005921,nino_missing,NINO absent,blocking
+H0005937,dob_missing,date_of_birth='',advisory
+H0005960,address_incomplete,missing address_line_1,advisory
+H0005974,address_incomplete,missing postcode,advisory
+H0006008,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0006009,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0006027,dob_missing,date_of_birth='',advisory
+H0006046,address_incomplete,missing postcode,advisory
+H0006051,nino_malformed,NINO fails structure: bad_format,blocking
+H0006064,nino_missing,NINO absent,blocking
+H0006064,address_incomplete,missing postcode,advisory
+H0006066,address_incomplete,missing postcode,advisory
+H0006086,nino_missing,NINO absent,blocking
+H0006100,dob_missing,date_of_birth='',advisory
+H0006104,nino_missing,NINO absent,blocking
+H0006106,nino_missing,NINO absent,blocking
+H0006117,dob_missing,date_of_birth='',advisory
+H0006169,nino_missing,NINO absent,blocking
+H0006169,address_incomplete,missing postcode,advisory
+H0006173,address_incomplete,missing postcode,advisory
+H0006192,address_incomplete,missing address_line_1,advisory
+H0006208,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0006211,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0006213,dob_missing,date_of_birth='',advisory
+H0006233,dob_missing,date_of_birth='',advisory
+H0006242,address_incomplete,missing address_line_1,advisory
+H0006245,nino_missing,NINO absent,blocking
+H0006251,address_incomplete,missing address_line_1,advisory
+H0006252,address_incomplete,missing postcode,advisory
+H0006265,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0006272,nino_missing,NINO absent,blocking
+H0006350,address_incomplete,missing postcode,advisory
+H0006356,address_incomplete,missing postcode,advisory
+H0006358,dob_missing,date_of_birth='',advisory
+H0006387,nino_missing,NINO absent,blocking
+H0006405,nino_missing,NINO absent,blocking
+H0006419,address_incomplete,missing postcode,advisory
+H0006434,nino_missing,NINO absent,blocking
+H0006452,nino_missing,NINO absent,blocking
+H0006454,nino_missing,NINO absent,blocking
+H0006454,address_incomplete,missing postcode,advisory
+H0006461,nino_missing,NINO absent,blocking
+H0006478,dob_missing,date_of_birth='',advisory
+H0006505,nino_malformed,NINO fails structure: bad_format,blocking
+H0006507,nino_missing,NINO absent,blocking
+H0006509,nino_missing,NINO absent,blocking
+H0006515,address_incomplete,missing postcode,advisory
+H0006537,nino_missing,NINO absent,blocking
+H0006594,address_incomplete,missing postcode,advisory
+H0006603,dob_missing,date_of_birth='',advisory
+H0006607,address_incomplete,missing address_line_1,advisory
+H0006624,nino_malformed,NINO fails structure: bad_format,blocking
+H0006630,address_incomplete,missing postcode,advisory
+H0006640,nino_missing,NINO absent,blocking
+H0006640,dob_missing,date_of_birth='',advisory
+H0006657,nino_missing,NINO absent,blocking
+H0006668,dob_missing,date_of_birth='',advisory
+H0006669,address_incomplete,missing postcode,advisory
+H0006700,dob_missing,date_of_birth='',advisory
+H0006757,nino_missing,NINO absent,blocking
+H0006765,address_incomplete,missing address_line_1,advisory
+H0006776,address_incomplete,missing address_line_1,advisory
+H0006785,nino_missing,NINO absent,blocking
+H0006790,nino_missing,NINO absent,blocking
+H0006808,dob_missing,date_of_birth='',advisory
+H0006812,nino_missing,NINO absent,blocking
+H0006826,dob_missing,date_of_birth='',advisory
+H0006828,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0006831,address_incomplete,missing postcode,advisory
+H0006860,nino_missing,NINO absent,blocking
+H0006861,nino_missing,NINO absent,blocking
+H0006862,address_incomplete,missing postcode,advisory
+H0006865,nino_missing,NINO absent,blocking
+H0006877,dob_missing,date_of_birth='',advisory
+H0006879,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0006889,nino_missing,NINO absent,blocking
+H0006909,nino_missing,NINO absent,blocking
+H0006929,nino_missing,NINO absent,blocking
+H0006940,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0006944,address_incomplete,missing postcode,advisory
+H0006945,nino_malformed,NINO fails structure: bad_format,blocking
+H0006947,nino_missing,NINO absent,blocking
+H0006953,nino_malformed,NINO fails structure: bad_format,blocking
+H0006973,nino_missing,NINO absent,blocking
+H0006995,nino_missing,NINO absent,blocking
+H0007002,address_incomplete,missing address_line_1,advisory
+H0007009,dob_missing,date_of_birth='',advisory
+H0007013,nino_missing,NINO absent,blocking
+H0007014,address_incomplete,missing address_line_1,advisory
+H0007057,address_incomplete,missing postcode,advisory
+H0007070,address_incomplete,missing address_line_1,advisory
+H0007074,address_incomplete,missing postcode,advisory
+H0007086,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0007090,nino_missing,NINO absent,blocking
+H0007091,nino_missing,NINO absent,blocking
+H0007099,address_incomplete,missing postcode,advisory
+H0007104,nino_malformed,NINO fails structure: bad_format,blocking
+H0007106,nino_missing,NINO absent,blocking
+H0007116,nino_malformed,NINO fails structure: bad_format,blocking
+H0007117,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0007125,address_incomplete,missing address_line_1,advisory
+H0007127,address_incomplete,missing address_line_1,advisory
+H0007136,address_incomplete,missing address_line_1,advisory
+H0007145,dob_missing,date_of_birth='',advisory
+H0007150,nino_missing,NINO absent,blocking
+H0007154,nino_missing,NINO absent,blocking
+H0007155,address_incomplete,missing address_line_1,advisory
+H0007225,nino_missing,NINO absent,blocking
+H0007238,nino_malformed,NINO fails structure: bad_format,blocking
+H0007272,nino_missing,NINO absent,blocking
+H0007279,address_incomplete,missing address_line_1,advisory
+H0007281,nino_missing,NINO absent,blocking
+H0007289,address_incomplete,missing address_line_1,advisory
+H0007330,address_incomplete,missing address_line_1,advisory
+H0007351,dob_missing,date_of_birth='',advisory
+H0007360,nino_missing,NINO absent,blocking
+H0007361,nino_missing,NINO absent,blocking
+H0007373,address_incomplete,missing postcode,advisory
+H0007390,nino_malformed,NINO fails structure: bad_format,blocking
+H0007406,dob_missing,date_of_birth='',advisory
+H0007411,nino_missing,NINO absent,blocking
+H0007433,nino_missing,NINO absent,blocking
+H0007434,address_incomplete,missing address_line_1,advisory
+H0007445,address_incomplete,missing address_line_1,advisory
+H0007519,nino_malformed,NINO fails structure: bad_format,blocking
+H0007544,address_incomplete,missing address_line_1,advisory
+H0007557,nino_missing,NINO absent,blocking
+H0007571,dob_missing,date_of_birth='',advisory
+H0007579,address_incomplete,missing postcode,advisory
+H0007617,nino_malformed,NINO fails structure: bad_format,blocking
+H0007676,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0007741,address_incomplete,missing address_line_1,advisory
+H0007749,nino_malformed,NINO fails structure: bad_format,blocking
+H0007757,address_incomplete,missing address_line_1,advisory
+H0007759,dob_missing,date_of_birth='',advisory
+H0007759,address_incomplete,missing postcode,advisory
+H0007763,nino_missing,NINO absent,blocking
+H0007774,nino_missing,NINO absent,blocking
+H0007786,address_incomplete,missing postcode,advisory
+H0007801,nino_missing,NINO absent,blocking
+H0007815,address_incomplete,missing postcode,advisory
+H0007821,nino_malformed,NINO fails structure: bad_format,blocking
+H0007825,nino_missing,NINO absent,blocking
+H0007837,nino_missing,NINO absent,blocking
+H0007861,address_incomplete,missing address_line_1,advisory
+H0007868,address_incomplete,missing postcode,advisory
+H0007871,nino_missing,NINO absent,blocking
+H0007907,nino_missing,NINO absent,blocking
+H0007939,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0007948,nino_missing,NINO absent,blocking
+H0007963,nino_missing,NINO absent,blocking
+H0007972,dob_missing,date_of_birth='',advisory
+H0008007,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0008018,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0008022,address_incomplete,missing address_line_1,advisory
+H0008034,address_incomplete,missing postcode,advisory
+H0008040,nino_missing,NINO absent,blocking
+H0008042,nino_malformed,NINO fails structure: bad_format,blocking
+H0008065,nino_malformed,NINO fails structure: bad_format,blocking
+H0008072,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0008088,address_incomplete,missing postcode,advisory
+H0008090,nino_missing,NINO absent,blocking
+H0008098,dob_missing,date_of_birth='',advisory
+H0008099,nino_missing,NINO absent,blocking
+H0008099,address_incomplete,missing postcode,advisory
+H0008105,address_incomplete,missing postcode,advisory
+H0008108,nino_missing,NINO absent,blocking
+H0008119,nino_missing,NINO absent,blocking
+H0008122,address_incomplete,missing postcode,advisory
+H0008129,nino_missing,NINO absent,blocking
+H0008139,address_incomplete,missing postcode,advisory
+H0008145,nino_missing,NINO absent,blocking
+H0008177,nino_missing,NINO absent,blocking
+H0008191,dob_missing,date_of_birth='',advisory
+H0008194,nino_missing,NINO absent,blocking
+H0008205,nino_malformed,NINO fails structure: bad_format,blocking
+H0008222,dob_missing,date_of_birth='',advisory
+H0008234,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0008257,address_incomplete,missing address_line_1,advisory
+H0008263,address_incomplete,missing postcode,advisory
+H0008295,address_incomplete,missing address_line_1,advisory
+H0008297,nino_missing,NINO absent,blocking
+H0008307,nino_missing,NINO absent,blocking
+H0008321,dob_missing,date_of_birth='',advisory
+H0008341,nino_missing,NINO absent,blocking
+H0008356,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0008361,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0008377,dob_missing,date_of_birth='',advisory
+H0008381,nino_missing,NINO absent,blocking
+H0008401,nino_missing,NINO absent,blocking
+H0008421,nino_missing,NINO absent,blocking
+H0008432,address_incomplete,missing address_line_1,advisory
+H0008437,nino_missing,NINO absent,blocking
+H0008453,address_incomplete,missing address_line_1,advisory
+H0008465,nino_missing,NINO absent,blocking
+H0008465,address_incomplete,missing address_line_1,advisory
+H0008512,nino_missing,NINO absent,blocking
+H0008528,address_incomplete,missing postcode,advisory
+H0008531,address_incomplete,missing postcode,advisory
+H0008540,address_incomplete,missing address_line_1,advisory
+H0008543,address_incomplete,missing postcode,advisory
+H0008549,address_incomplete,missing address_line_1,advisory
+H0008553,address_incomplete,missing address_line_1,advisory
+H0008558,address_incomplete,missing address_line_1,advisory
+H0008568,nino_missing,NINO absent,blocking
+H0008616,address_incomplete,missing postcode,advisory
+H0008619,nino_missing,NINO absent,blocking
+H0008620,address_incomplete,missing address_line_1,advisory
+H0008634,address_incomplete,missing address_line_1,advisory
+H0008635,nino_malformed,NINO fails structure: bad_format,blocking
+H0008636,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0008642,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0008659,address_incomplete,missing postcode,advisory
+H0008666,nino_missing,NINO absent,blocking
+H0008668,nino_missing,NINO absent,blocking
+H0008672,nino_missing,NINO absent,blocking
+H0008688,nino_missing,NINO absent,blocking
+H0008698,address_incomplete,missing address_line_1,advisory
+H0008702,address_incomplete,missing postcode,advisory
+H0008714,nino_missing,NINO absent,blocking
+H0008714,dob_missing,date_of_birth='',advisory
+H0008717,nino_missing,NINO absent,blocking
+H0008718,address_incomplete,missing postcode,advisory
+H0008751,address_incomplete,missing address_line_1,advisory
+H0008762,address_incomplete,missing postcode,advisory
+H0008778,nino_missing,NINO absent,blocking
+H0008821,nino_malformed,NINO fails structure: bad_format,blocking
+H0008837,nino_missing,NINO absent,blocking
+H0008840,nino_missing,NINO absent,blocking
+H0008861,nino_missing,NINO absent,blocking
+H0008867,address_incomplete,missing address_line_1,advisory
+H0008882,nino_malformed,NINO fails structure: bad_format,blocking
+H0008892,nino_missing,NINO absent,blocking
+H0008905,address_incomplete,missing postcode,advisory
+H0008936,nino_missing,NINO absent,blocking
+H0008937,address_incomplete,missing address_line_1,advisory
+H0008947,nino_missing,NINO absent,blocking
+H0008950,nino_missing,NINO absent,blocking
+H0008959,address_incomplete,missing postcode,advisory
+H0008962,nino_missing,NINO absent,blocking
+H0008964,dob_missing,date_of_birth='',advisory
+H0008973,dob_missing,date_of_birth='',advisory
+H0008973,address_incomplete,missing address_line_1,advisory
+H0008975,nino_missing,NINO absent,blocking
+H0008988,nino_malformed,NINO fails structure: bad_format,blocking
+H0008991,address_incomplete,missing address_line_1,advisory
+H0009011,nino_malformed,NINO fails structure: bad_format,blocking
+H0009012,address_incomplete,missing postcode,advisory
+H0009040,dob_missing,date_of_birth='',advisory
+H0009057,nino_missing,NINO absent,blocking
+H0009060,nino_missing,NINO absent,blocking
+H0009084,nino_missing,NINO absent,blocking
+H0009096,address_incomplete,missing address_line_1,advisory
+H0009119,nino_missing,NINO absent,blocking
+H0009137,dob_missing,date_of_birth='',advisory
+H0009137,address_incomplete,missing postcode,advisory
+H0009157,address_incomplete,missing address_line_1,advisory
+H0009200,nino_missing,NINO absent,blocking
+H0009203,nino_missing,NINO absent,blocking
+H0009209,address_incomplete,missing postcode,advisory
+H0009222,address_incomplete,missing postcode,advisory
+H0009227,nino_missing,NINO absent,blocking
+H0009228,address_incomplete,missing postcode,advisory
+H0009237,nino_missing,NINO absent,blocking
+H0009255,nino_malformed,NINO fails structure: bad_format,blocking
+H0009301,nino_missing,NINO absent,blocking
+H0009304,address_incomplete,missing postcode,advisory
+H0009311,dob_missing,date_of_birth='',advisory
+H0009315,nino_missing,NINO absent,blocking
+H0009315,address_incomplete,missing postcode,advisory
+H0009321,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0009358,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0009361,nino_missing,NINO absent,blocking
+H0009363,address_incomplete,missing address_line_1,advisory
+H0009370,nino_missing,NINO absent,blocking
+H0009375,nino_missing,NINO absent,blocking
+H0009389,nino_missing,NINO absent,blocking
+H0009416,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0009433,nino_malformed,NINO fails structure: bad_format,blocking
+H0009438,dob_missing,date_of_birth='',advisory
+H0009443,nino_missing,NINO absent,blocking
+H0009451,nino_malformed,NINO fails structure: bad_format,blocking
+H0009452,address_incomplete,missing address_line_1,advisory
+H0009463,dob_missing,date_of_birth='',advisory
+H0009474,address_incomplete,missing address_line_1,advisory
+H0009480,nino_missing,NINO absent,blocking
+H0009488,address_incomplete,missing postcode,advisory
+H0009495,address_incomplete,missing address_line_1,advisory
+H0009509,nino_missing,NINO absent,blocking
+H0009509,dob_missing,date_of_birth='',advisory
+H0009509,address_incomplete,missing address_line_1,advisory
+H0009511,address_incomplete,missing postcode,advisory
+H0009522,address_incomplete,missing postcode,advisory
+H0009525,address_incomplete,missing address_line_1,advisory
+H0009534,nino_missing,NINO absent,blocking
+H0009539,nino_malformed,NINO fails structure: bad_format,blocking
+H0009556,address_incomplete,missing address_line_1,advisory
+H0009576,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0009590,nino_missing,NINO absent,blocking
+H0009596,dob_missing,date_of_birth='',advisory
+H0009605,dob_missing,date_of_birth='',advisory
+H0009609,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0009621,nino_missing,NINO absent,blocking
+H0009630,nino_missing,NINO absent,blocking
+H0009633,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0009634,address_incomplete,missing postcode,advisory
+H0009641,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0009668,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0009669,dob_missing,date_of_birth='',advisory
+H0009671,nino_missing,NINO absent,blocking
+H0009675,nino_missing,NINO absent,blocking
+H0009680,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0009685,nino_missing,NINO absent,blocking
+H0009708,dob_missing,date_of_birth='',advisory
+H0009723,address_incomplete,missing postcode,advisory
+H0009730,nino_missing,NINO absent,blocking
+H0009755,dob_missing,date_of_birth='',advisory
+H0009757,nino_malformed,NINO fails structure: bad_format,blocking
+H0009793,nino_malformed,NINO fails structure: bad_format,blocking
+H0009813,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0009814,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0009818,nino_missing,NINO absent,blocking
+H0009839,address_incomplete,missing postcode,advisory
+H0009845,nino_malformed,NINO fails structure: bad_format,blocking
+H0009847,nino_missing,NINO absent,blocking
+H0009863,nino_missing,NINO absent,blocking
+H0009867,nino_missing,NINO absent,blocking
+H0009878,nino_missing,NINO absent,blocking
+H0009880,nino_malformed,NINO fails structure: bad_format,blocking
+H0009902,address_incomplete,missing postcode,advisory
+H0009905,address_incomplete,missing postcode,advisory
+H0009907,nino_missing,NINO absent,blocking
+H0009908,nino_missing,NINO absent,blocking
+H0009946,nino_missing,NINO absent,blocking
+H0009950,address_incomplete,missing postcode,advisory
+H0009959,address_incomplete,missing address_line_1,advisory
+H0009974,address_incomplete,missing postcode,advisory
+H0009984,nino_missing,NINO absent,blocking
+H0009991,nino_missing,NINO absent,blocking
+H0009993,nino_missing,NINO absent,blocking
+H0009994,nino_missing,NINO absent,blocking
+H0009995,dob_missing,date_of_birth='',advisory
+H0010015,nino_missing,NINO absent,blocking
+H0010034,nino_missing,NINO absent,blocking
+H0010043,address_incomplete,missing postcode,advisory
+H0010063,nino_malformed,NINO fails structure: bad_format,blocking
+H0010078,dob_missing,date_of_birth='',advisory
+H0010083,dob_missing,date_of_birth='',advisory
+H0010087,address_incomplete,missing postcode,advisory
+H0010088,address_incomplete,missing address_line_1,advisory
+H0010089,nino_missing,NINO absent,blocking
+H0010098,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0010155,address_incomplete,missing postcode,advisory
+H0010173,dob_missing,date_of_birth='',advisory
+H0010180,nino_malformed,NINO fails structure: bad_format,blocking
+H0010186,address_incomplete,missing address_line_1,advisory
+H0010187,nino_missing,NINO absent,blocking
+H0010212,address_incomplete,missing address_line_1,advisory
+H0010227,address_incomplete,missing postcode,advisory
+H0010228,dob_missing,date_of_birth='',advisory
+H0010230,nino_missing,NINO absent,blocking
+H0010236,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0010243,address_incomplete,missing address_line_1,advisory
+H0010253,nino_missing,NINO absent,blocking
+H0010272,address_incomplete,missing address_line_1,advisory
+H0010273,dob_missing,date_of_birth='',advisory
+H0010280,address_incomplete,missing address_line_1,advisory
+H0010284,nino_missing,NINO absent,blocking
+H0010291,address_incomplete,missing address_line_1,advisory
+H0010292,address_incomplete,missing address_line_1,advisory
+H0010299,nino_malformed,NINO fails structure: bad_format,blocking
+H0010301,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0010319,nino_missing,NINO absent,blocking
+H0010324,address_incomplete,missing postcode,advisory
+H0010327,address_incomplete,missing postcode,advisory
+H0010334,address_incomplete,missing address_line_1,advisory
+H0010335,address_incomplete,missing postcode,advisory
+H0010346,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0010354,nino_missing,NINO absent,blocking
+H0010367,nino_missing,NINO absent,blocking
+H0010371,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0010373,address_incomplete,missing postcode,advisory
+H0010378,address_incomplete,missing postcode,advisory
+H0010402,nino_missing,NINO absent,blocking
+H0010407,nino_missing,NINO absent,blocking
+H0010441,nino_malformed,NINO fails structure: bad_format,blocking
+H0010479,dob_missing,date_of_birth='',advisory
+H0010483,address_incomplete,missing address_line_1,advisory
+H0010486,dob_missing,date_of_birth='',advisory
+H0010500,address_incomplete,missing postcode,advisory
+H0010522,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0010526,nino_missing,NINO absent,blocking
+H0010533,dob_missing,date_of_birth='',advisory
+H0010560,nino_missing,NINO absent,blocking
+H0010565,nino_missing,NINO absent,blocking
+H0010576,nino_missing,NINO absent,blocking
+H0010597,nino_missing,NINO absent,blocking
+H0010597,address_incomplete,missing address_line_1,advisory
+H0010598,nino_malformed,NINO fails structure: bad_format,blocking
+H0010598,address_incomplete,missing address_line_1,advisory
+H0010610,nino_missing,NINO absent,blocking
+H0010612,address_incomplete,missing postcode,advisory
+H0010628,address_incomplete,missing postcode,advisory
+H0010681,address_incomplete,missing postcode,advisory
+H0010706,nino_missing,NINO absent,blocking
+H0010725,address_incomplete,missing postcode,advisory
+H0010739,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0010741,dob_missing,date_of_birth='',advisory
+H0010770,address_incomplete,missing address_line_1,advisory
+H0010780,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0010795,nino_missing,NINO absent,blocking
+H0010804,address_incomplete,missing postcode,advisory
+H0010805,nino_missing,NINO absent,blocking
+H0010830,nino_missing,NINO absent,blocking
+H0010831,nino_missing,NINO absent,blocking
+H0010832,address_incomplete,missing address_line_1,advisory
+H0010838,dob_missing,date_of_birth='',advisory
+H0010860,nino_missing,NINO absent,blocking
+H0010866,nino_missing,NINO absent,blocking
+H0010879,nino_missing,NINO absent,blocking
+H0010891,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0010904,nino_missing,NINO absent,blocking
+H0010927,dob_missing,date_of_birth='',advisory
+H0010938,dob_missing,date_of_birth='',advisory
+H0010952,nino_missing,NINO absent,blocking
+H0010961,nino_missing,NINO absent,blocking
+H0010987,nino_missing,NINO absent,blocking
+H0011004,address_incomplete,missing postcode,advisory
+H0011006,nino_missing,NINO absent,blocking
+H0011015,nino_missing,NINO absent,blocking
+H0011045,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0011086,dob_missing,date_of_birth='',advisory
+H0011105,address_incomplete,missing address_line_1,advisory
+H0011120,nino_missing,NINO absent,blocking
+H0011127,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0011145,nino_missing,NINO absent,blocking
+H0011152,nino_missing,NINO absent,blocking
+H0011156,dob_missing,date_of_birth='',advisory
+H0011167,nino_malformed,NINO fails structure: bad_format,blocking
+H0011177,nino_missing,NINO absent,blocking
+H0011211,dob_missing,date_of_birth='',advisory
+H0011216,dob_missing,date_of_birth='',advisory
+H0011224,nino_missing,NINO absent,blocking
+H0011231,address_incomplete,missing address_line_1,advisory
+H0011239,dob_missing,date_of_birth='',advisory
+H0011248,nino_missing,NINO absent,blocking
+H0011256,address_incomplete,missing address_line_1,advisory
+H0011316,nino_missing,NINO absent,blocking
+H0011327,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0011329,dob_missing,date_of_birth='',advisory
+H0011333,nino_missing,NINO absent,blocking
+H0011378,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0011378,address_incomplete,missing address_line_1,advisory
+H0011395,address_incomplete,missing postcode,advisory
+H0011434,dob_missing,date_of_birth='',advisory
+H0011476,address_incomplete,missing postcode,advisory
+H0011492,nino_malformed,NINO fails structure: bad_format,blocking
+H0011492,dob_missing,date_of_birth='',advisory
+H0011511,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0011525,nino_missing,NINO absent,blocking
+H0011525,address_incomplete,missing address_line_1,advisory
+H0011530,nino_missing,NINO absent,blocking
+H0011538,nino_missing,NINO absent,blocking
+H0011553,address_incomplete,missing address_line_1,advisory
+H0011562,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0011591,nino_missing,NINO absent,blocking
+H0011606,dob_missing,date_of_birth='',advisory
+H0011611,address_incomplete,missing postcode,advisory
+H0011621,nino_missing,NINO absent,blocking
+H0011659,nino_malformed,NINO fails structure: bad_format,blocking
+H0011659,dob_missing,date_of_birth='',advisory
+H0011689,nino_missing,NINO absent,blocking
+H0011697,nino_missing,NINO absent,blocking
+H0011717,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0011733,nino_missing,NINO absent,blocking
+H0011737,nino_malformed,NINO fails structure: bad_format,blocking
+H0011741,nino_missing,NINO absent,blocking
+H0011742,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0011760,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0011762,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0011781,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0011806,address_incomplete,missing address_line_1,advisory
+H0011817,nino_malformed,NINO fails structure: bad_format,blocking
+H0011821,nino_missing,NINO absent,blocking
+H0011830,address_incomplete,missing address_line_1,advisory
+H0011836,address_incomplete,missing postcode,advisory
+H0011837,address_incomplete,missing address_line_1,advisory
+H0011847,nino_missing,NINO absent,blocking
+H0011859,nino_malformed,NINO fails structure: bad_format,blocking
+H0011864,address_incomplete,missing address_line_1,advisory
+H0011865,dob_missing,date_of_birth='',advisory
+H0011880,nino_missing,NINO absent,blocking
+H0011889,address_incomplete,missing address_line_1,advisory
+H0011890,address_incomplete,missing address_line_1,advisory
+H0011896,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0011909,address_incomplete,missing postcode,advisory
+H0011917,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0011931,dob_missing,date_of_birth='',advisory
+H0011934,address_incomplete,missing address_line_1,advisory
+H0011947,nino_missing,NINO absent,blocking
+H0012028,address_incomplete,missing address_line_1,advisory
+H0012039,address_incomplete,missing postcode,advisory
+H0012055,nino_missing,NINO absent,blocking
+H0012057,nino_malformed,NINO fails structure: bad_format,blocking
+H0012080,nino_missing,NINO absent,blocking
+H0012108,address_incomplete,missing address_line_1,advisory
+H0012121,nino_malformed,NINO fails structure: bad_format,blocking
+H0012139,dob_missing,date_of_birth='',advisory
+H0012155,address_incomplete,missing address_line_1,advisory
+H0012157,nino_missing,NINO absent,blocking
+H0012177,nino_missing,NINO absent,blocking
+H0012206,address_incomplete,missing postcode,advisory
+H0012207,nino_missing,NINO absent,blocking
+H0012218,address_incomplete,missing address_line_1,advisory
+H0012220,nino_missing,NINO absent,blocking
+H0012233,nino_malformed,NINO fails structure: bad_format,blocking
+H0012248,nino_missing,NINO absent,blocking
+H0012256,dob_missing,date_of_birth='',advisory
+H0012278,nino_malformed,NINO fails structure: bad_format,blocking
+H0012280,nino_missing,NINO absent,blocking
+H0012289,nino_malformed,NINO fails structure: bad_format,blocking
+H0012336,nino_missing,NINO absent,blocking
+H0012353,address_incomplete,missing address_line_1,advisory
+H0012366,address_incomplete,missing postcode,advisory
+H0012385,dob_missing,date_of_birth='',advisory
+H0012386,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0012397,nino_malformed,NINO fails structure: bad_format,blocking
+H0012402,nino_missing,NINO absent,blocking
+H0012402,address_incomplete,missing postcode,advisory
+H0012403,nino_missing,NINO absent,blocking
+H0012407,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0012421,address_incomplete,missing address_line_1,advisory
+H0012444,nino_missing,NINO absent,blocking
+H0012454,address_incomplete,missing postcode,advisory
+H0012458,nino_missing,NINO absent,blocking
+H0012473,nino_missing,NINO absent,blocking
+H0012476,dob_missing,date_of_birth='',advisory
+H0012477,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0012494,address_incomplete,missing address_line_1,advisory
+H0012495,dob_missing,date_of_birth='',advisory
+H0012506,nino_missing,NINO absent,blocking
+H0012523,nino_missing,NINO absent,blocking
+H0012540,nino_missing,NINO absent,blocking
+H0012557,address_incomplete,missing postcode,advisory
+H0012562,nino_missing,NINO absent,blocking
+H0012580,nino_missing,NINO absent,blocking
+H0012581,nino_missing,NINO absent,blocking
+H0012585,nino_missing,NINO absent,blocking
+H0012606,address_incomplete,missing postcode,advisory
+H0012610,address_incomplete,missing postcode,advisory
+H0012631,address_incomplete,missing postcode,advisory
+H0012654,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0012683,address_incomplete,missing postcode,advisory
+H0012706,nino_malformed,NINO fails structure: bad_format,blocking
+H0012710,address_incomplete,missing address_line_1,advisory
+H0012712,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0012735,address_incomplete,missing postcode,advisory
+H0012745,address_incomplete,missing address_line_1,advisory
+H0012754,dob_missing,date_of_birth='',advisory
+H0012759,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0012778,dob_missing,date_of_birth='',advisory
+H0012782,address_incomplete,missing postcode,advisory
+H0012790,address_incomplete,missing postcode,advisory
+H0012791,nino_missing,NINO absent,blocking
+H0012802,nino_missing,NINO absent,blocking
+H0012807,address_incomplete,missing postcode,advisory
+H0012815,address_incomplete,missing address_line_1,advisory
+H0012820,address_incomplete,missing address_line_1,advisory
+H0012828,address_incomplete,missing postcode,advisory
+H0012835,address_incomplete,missing postcode,advisory
+H0012846,address_incomplete,missing postcode,advisory
+H0012848,nino_malformed,NINO fails structure: bad_format,blocking
+H0012861,nino_malformed,NINO fails structure: bad_format,blocking
+H0012865,nino_missing,NINO absent,blocking
+H0012872,address_incomplete,missing address_line_1,advisory
+H0012910,address_incomplete,missing address_line_1,advisory
+H0012917,nino_missing,NINO absent,blocking
+H0012942,nino_missing,NINO absent,blocking
+H0012944,nino_malformed,NINO fails structure: bad_format,blocking
+H0012945,nino_missing,NINO absent,blocking
+H0012954,nino_missing,NINO absent,blocking
+H0012957,nino_missing,NINO absent,blocking
+H0013032,nino_missing,NINO absent,blocking
+H0013057,nino_missing,NINO absent,blocking
+H0013060,address_incomplete,missing address_line_1,advisory
+H0013089,address_incomplete,missing address_line_1,advisory
+H0013096,nino_missing,NINO absent,blocking
+H0013104,dob_missing,date_of_birth='',advisory
+H0013125,nino_missing,NINO absent,blocking
+H0013162,nino_missing,NINO absent,blocking
+H0013198,nino_missing,NINO absent,blocking
+H0013205,address_incomplete,missing postcode,advisory
+H0013217,nino_missing,NINO absent,blocking
+H0013245,nino_missing,NINO absent,blocking
+H0013257,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0013261,nino_malformed,NINO fails structure: bad_format,blocking
+H0013264,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0013267,nino_missing,NINO absent,blocking
+H0013296,nino_missing,NINO absent,blocking
+H0013296,dob_missing,date_of_birth='',advisory
+H0013302,nino_missing,NINO absent,blocking
+H0013303,nino_missing,NINO absent,blocking
+H0013322,address_incomplete,missing address_line_1,advisory
+H0013343,nino_missing,NINO absent,blocking
+H0013357,nino_missing,NINO absent,blocking
+H0013360,address_incomplete,missing address_line_1,advisory
+H0013390,nino_missing,NINO absent,blocking
+H0013392,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0013394,nino_missing,NINO absent,blocking
+H0013403,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0013408,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0013412,nino_missing,NINO absent,blocking
+H0013418,address_incomplete,missing postcode,advisory
+H0013420,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0013425,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0013451,nino_missing,NINO absent,blocking
+H0013466,address_incomplete,missing postcode,advisory
+H0013471,nino_missing,NINO absent,blocking
+H0013473,nino_missing,NINO absent,blocking
+H0013500,address_incomplete,missing address_line_1,advisory
+H0013518,dob_missing,date_of_birth='',advisory
+H0013526,address_incomplete,missing postcode,advisory
+H0013538,dob_missing,date_of_birth='',advisory
+H0013555,dob_missing,date_of_birth='',advisory
+H0013559,dob_missing,date_of_birth='',advisory
+H0013580,nino_missing,NINO absent,blocking
+H0013581,address_incomplete,missing address_line_1,advisory
+H0013590,nino_missing,NINO absent,blocking
+H0013602,address_incomplete,missing address_line_1,advisory
+H0013605,address_incomplete,missing address_line_1,advisory
+H0013608,address_incomplete,missing postcode,advisory
+H0013618,address_incomplete,missing postcode,advisory
+H0013624,nino_malformed,NINO fails structure: bad_format,blocking
+H0013635,nino_missing,NINO absent,blocking
+H0013644,address_incomplete,missing address_line_1,advisory
+H0013650,dob_missing,date_of_birth='',advisory
+H0013664,address_incomplete,missing postcode,advisory
+H0013666,nino_missing,NINO absent,blocking
+H0013670,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0013672,address_incomplete,missing postcode,advisory
+H0013676,nino_missing,NINO absent,blocking
+H0013677,nino_malformed,NINO fails structure: bad_format,blocking
+H0013684,address_incomplete,missing postcode,advisory
+H0013694,nino_missing,NINO absent,blocking
+H0013702,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0013715,nino_missing,NINO absent,blocking
+H0013728,dob_missing,date_of_birth='',advisory
+H0013739,nino_missing,NINO absent,blocking
+H0013752,nino_missing,NINO absent,blocking
+H0013775,nino_missing,NINO absent,blocking
+H0013779,nino_missing,NINO absent,blocking
+H0013790,nino_malformed,NINO fails structure: bad_format,blocking
+H0013793,nino_missing,NINO absent,blocking
+H0013794,nino_missing,NINO absent,blocking
+H0013806,address_incomplete,missing postcode,advisory
+H0013809,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0013810,dob_missing,date_of_birth='',advisory
+H0013818,nino_malformed,NINO fails structure: bad_format,blocking
+H0013830,dob_missing,date_of_birth='',advisory
+H0013833,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0013847,nino_missing,NINO absent,blocking
+H0013851,dob_missing,date_of_birth='',advisory
+H0013861,nino_missing,NINO absent,blocking
+H0013862,dob_missing,date_of_birth='',advisory
+H0013871,nino_malformed,NINO fails structure: bad_format,blocking
+H0013903,nino_missing,NINO absent,blocking
+H0013913,nino_missing,NINO absent,blocking
+H0013914,address_incomplete,missing postcode,advisory
+H0013927,address_incomplete,missing postcode,advisory
+H0013931,nino_missing,NINO absent,blocking
+H0013936,dob_missing,date_of_birth='',advisory
+H0013938,dob_missing,date_of_birth='',advisory
+H0013949,nino_missing,NINO absent,blocking
+H0013990,dob_missing,date_of_birth='',advisory
+H0014003,address_incomplete,missing address_line_1,advisory
+H0014029,address_incomplete,missing postcode,advisory
+H0014053,address_incomplete,missing address_line_1,advisory
+H0014067,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0014093,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0014094,nino_missing,NINO absent,blocking
+H0014107,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0014111,nino_missing,NINO absent,blocking
+H0014128,address_incomplete,missing address_line_1,advisory
+H0014129,address_incomplete,missing address_line_1,advisory
+H0014141,nino_missing,NINO absent,blocking
+H0014160,nino_missing,NINO absent,blocking
+H0014163,address_incomplete,missing postcode,advisory
+H0014168,address_incomplete,missing address_line_1,advisory
+H0014185,dob_missing,date_of_birth='',advisory
+H0014185,address_incomplete,missing postcode,advisory
+H0014187,nino_missing,NINO absent,blocking
+H0014212,address_incomplete,missing address_line_1,advisory
+H0014230,address_incomplete,missing address_line_1,advisory
+H0014244,nino_malformed,NINO fails structure: bad_format,blocking
+H0014247,address_incomplete,missing address_line_1,advisory
+H0014257,nino_missing,NINO absent,blocking
+H0014266,address_incomplete,missing address_line_1,advisory
+H0014293,address_incomplete,missing address_line_1,advisory
+H0014298,dob_missing,date_of_birth='',advisory
+H0014324,nino_missing,NINO absent,blocking
+H0014326,address_incomplete,missing postcode,advisory
+H0014329,dob_missing,date_of_birth='',advisory
+H0014351,address_incomplete,missing postcode,advisory
+H0014353,address_incomplete,missing address_line_1,advisory
+H0014360,nino_missing,NINO absent,blocking
+H0014361,nino_missing,NINO absent,blocking
+H0014378,address_incomplete,missing postcode,advisory
+H0014387,address_incomplete,missing address_line_1,advisory
+H0014393,nino_missing,NINO absent,blocking
+H0014393,address_incomplete,missing postcode,advisory
+H0014408,address_incomplete,missing address_line_1,advisory
+H0014415,address_incomplete,missing postcode,advisory
+H0014423,dob_missing,date_of_birth='',advisory
+H0014429,address_incomplete,missing postcode,advisory
+H0014431,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0014452,nino_missing,NINO absent,blocking
+H0014528,nino_missing,NINO absent,blocking
+H0014531,address_incomplete,missing postcode,advisory
+H0014555,dob_missing,date_of_birth='',advisory
+H0014567,address_incomplete,missing address_line_1,advisory
+H0014574,address_incomplete,missing postcode,advisory
+H0014582,dob_missing,date_of_birth='',advisory
+H0014589,nino_missing,NINO absent,blocking
+H0014601,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0014629,address_incomplete,missing address_line_1,advisory
+H0014650,nino_missing,NINO absent,blocking
+H0014655,nino_missing,NINO absent,blocking
+H0014657,address_incomplete,missing address_line_1,advisory
+H0014685,address_incomplete,missing postcode,advisory
+H0014686,dob_missing,date_of_birth='',advisory
+H0014707,nino_missing,NINO absent,blocking
+H0014712,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0014718,address_incomplete,missing address_line_1,advisory
+H0014729,nino_missing,NINO absent,blocking
+H0014744,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0014745,dob_missing,date_of_birth='',advisory
+H0014755,address_incomplete,missing postcode,advisory
+H0014784,nino_malformed,NINO fails structure: bad_format,blocking
+H0014787,nino_missing,NINO absent,blocking
+H0014790,nino_malformed,NINO fails structure: bad_format,blocking
+H0014822,address_incomplete,missing address_line_1,advisory
+H0014824,nino_missing,NINO absent,blocking
+H0014837,dob_missing,date_of_birth='',advisory
+H0014852,dob_missing,date_of_birth='',advisory
+H0014865,nino_missing,NINO absent,blocking
+H0014881,address_incomplete,missing postcode,advisory
+H0014882,nino_missing,NINO absent,blocking
+H0014882,address_incomplete,missing address_line_1,advisory
+H0014883,nino_missing,NINO absent,blocking
+H0014883,address_incomplete,missing postcode,advisory
+H0014901,address_incomplete,missing address_line_1,advisory
+H0014902,nino_missing,NINO absent,blocking
+H0014919,nino_missing,NINO absent,blocking
+H0014944,dob_missing,date_of_birth='',advisory
+H0014958,address_incomplete,missing postcode,advisory
+H0014966,address_incomplete,missing postcode,advisory
+H0014975,nino_missing,NINO absent,blocking
+H0014982,address_incomplete,missing address_line_1,advisory
+H0015009,address_incomplete,missing address_line_1,advisory
+H0015038,nino_missing,NINO absent,blocking
+H0015043,nino_missing,NINO absent,blocking
+H0015065,address_incomplete,missing address_line_1,advisory
+H0015069,nino_malformed,NINO fails structure: bad_format,blocking
+H0015075,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0015089,nino_missing,NINO absent,blocking
+H0015095,address_incomplete,missing postcode,advisory
+H0015120,nino_missing,NINO absent,blocking
+H0015151,dob_missing,date_of_birth='',advisory
+H0015152,nino_missing,NINO absent,blocking
+H0015165,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0015171,address_incomplete,missing postcode,advisory
+H0015183,address_incomplete,missing address_line_1,advisory
+H0015193,nino_missing,NINO absent,blocking
+H0015226,nino_malformed,NINO fails structure: bad_format,blocking
+H0015228,nino_malformed,NINO fails structure: bad_format,blocking
+H0015229,nino_missing,NINO absent,blocking
+H0015229,address_incomplete,missing postcode,advisory
+H0015240,nino_malformed,NINO fails structure: bad_format,blocking
+H0015263,address_incomplete,missing postcode,advisory
+H0015282,dob_missing,date_of_birth='',advisory
+H0015289,nino_missing,NINO absent,blocking
+H0015301,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0015328,nino_missing,NINO absent,blocking
+H0015339,dob_missing,date_of_birth='',advisory
+H0015350,nino_missing,NINO absent,blocking
+H0015364,address_incomplete,missing postcode,advisory
+H0015393,dob_missing,date_of_birth='',advisory
+H0015394,address_incomplete,missing postcode,advisory
+H0015398,nino_missing,NINO absent,blocking
+H0015438,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0015446,address_incomplete,missing postcode,advisory
+H0015459,nino_missing,NINO absent,blocking
+H0015463,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0015487,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0015492,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0015514,dob_missing,date_of_birth='',advisory
+H0015539,nino_missing,NINO absent,blocking
+H0015577,address_incomplete,missing address_line_1,advisory
+H0015581,nino_missing,NINO absent,blocking
+H0015603,nino_missing,NINO absent,blocking
+H0015604,nino_malformed,NINO fails structure: bad_format,blocking
+H0015608,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0015613,nino_missing,NINO absent,blocking
+H0015643,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0015657,nino_missing,NINO absent,blocking
+H0015662,nino_missing,NINO absent,blocking
+H0015670,address_incomplete,missing address_line_1,advisory
+H0015690,dob_missing,date_of_birth='',advisory
+H0015696,address_incomplete,missing postcode,advisory
+H0015701,address_incomplete,missing address_line_1,advisory
+H0015710,address_incomplete,missing address_line_1,advisory
+H0015722,address_incomplete,missing address_line_1,advisory
+H0015727,nino_missing,NINO absent,blocking
+H0015727,address_incomplete,missing postcode,advisory
+H0015740,address_incomplete,missing postcode,advisory
+H0015743,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0015748,address_incomplete,missing address_line_1,advisory
+H0015749,address_incomplete,missing postcode,advisory
+H0015766,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0015811,nino_malformed,NINO fails structure: bad_format,blocking
+H0015827,nino_malformed,NINO fails structure: bad_format,blocking
+H0015832,dob_missing,date_of_birth='',advisory
+H0015841,nino_malformed,NINO fails structure: bad_format,blocking
+H0015841,dob_missing,date_of_birth='',advisory
+H0015842,nino_malformed,NINO fails structure: bad_format,blocking
+H0015846,nino_missing,NINO absent,blocking
+H0015848,nino_missing,NINO absent,blocking
+H0015855,address_incomplete,missing address_line_1,advisory
+H0015857,dob_missing,date_of_birth='',advisory
+H0015860,address_incomplete,missing postcode,advisory
+H0015865,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0015874,dob_missing,date_of_birth='',advisory
+H0015903,nino_missing,NINO absent,blocking
+H0015913,address_incomplete,missing postcode,advisory
+H0015924,address_incomplete,missing address_line_1,advisory
+H0015925,nino_missing,NINO absent,blocking
+H0015927,nino_missing,NINO absent,blocking
+H0015940,nino_malformed,NINO fails structure: bad_format,blocking
+H0015941,nino_missing,NINO absent,blocking
+H0015944,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0015947,nino_missing,NINO absent,blocking
+H0015956,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0015964,address_incomplete,missing postcode,advisory
+H0015967,dob_missing,date_of_birth='',advisory
+H0015997,nino_malformed,NINO fails structure: bad_format,blocking
+H0016002,dob_missing,date_of_birth='',advisory
+H0016017,dob_missing,date_of_birth='',advisory
+H0016053,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0016072,address_incomplete,missing postcode,advisory
+H0016100,nino_missing,NINO absent,blocking
+H0016125,nino_missing,NINO absent,blocking
+H0016128,address_incomplete,missing postcode,advisory
+H0016138,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0016177,nino_missing,NINO absent,blocking
+H0016193,nino_missing,NINO absent,blocking
+H0016195,address_incomplete,missing address_line_1,advisory
+H0016203,address_incomplete,missing address_line_1,advisory
+H0016205,nino_missing,NINO absent,blocking
+H0016218,nino_missing,NINO absent,blocking
+H0016254,nino_missing,NINO absent,blocking
+H0016255,dob_missing,date_of_birth='',advisory
+H0016276,nino_missing,NINO absent,blocking
+H0016279,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0016280,dob_missing,date_of_birth='',advisory
+H0016292,nino_malformed,NINO fails structure: bad_format,blocking
+H0016295,nino_missing,NINO absent,blocking
+H0016334,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0016340,nino_malformed,NINO fails structure: bad_format,blocking
+H0016344,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0016345,nino_missing,NINO absent,blocking
+H0016366,address_incomplete,missing address_line_1,advisory
+H0016385,dob_missing,date_of_birth='',advisory
+H0016385,address_incomplete,missing address_line_1,advisory
+H0016400,nino_malformed,NINO fails structure: bad_format,blocking
+H0016405,address_incomplete,missing address_line_1,advisory
+H0016413,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0016416,address_incomplete,missing postcode,advisory
+H0016439,address_incomplete,missing postcode,advisory
+H0016462,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0016462,address_incomplete,missing postcode,advisory
+H0016475,address_incomplete,missing address_line_1,advisory
+H0016483,nino_missing,NINO absent,blocking
+H0016505,nino_malformed,NINO fails structure: bad_format,blocking
+H0016511,dob_missing,date_of_birth='',advisory
+H0016512,nino_missing,NINO absent,blocking
+H0016514,nino_missing,NINO absent,blocking
+H0016517,address_incomplete,missing address_line_1,advisory
+H0016552,address_incomplete,missing address_line_1,advisory
+H0016553,address_incomplete,missing postcode,advisory
+H0016556,nino_malformed,NINO fails structure: bad_format,blocking
+H0016560,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0016587,address_incomplete,missing postcode,advisory
+H0016605,nino_missing,NINO absent,blocking
+H0016618,address_incomplete,missing address_line_1,advisory
+H0016620,nino_malformed,NINO fails structure: bad_format,blocking
+H0016624,address_incomplete,missing address_line_1,advisory
+H0016639,nino_missing,NINO absent,blocking
+H0016643,address_incomplete,missing address_line_1,advisory
+H0016647,address_incomplete,missing postcode,advisory
+H0016678,address_incomplete,missing address_line_1,advisory
+H0016691,address_incomplete,missing address_line_1,advisory
+H0016704,nino_missing,NINO absent,blocking
+H0016709,address_incomplete,missing postcode,advisory
+H0016710,nino_missing,NINO absent,blocking
+H0016720,dob_missing,date_of_birth='',advisory
+H0016726,nino_malformed,NINO fails structure: bad_format,blocking
+H0016728,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0016729,nino_missing,NINO absent,blocking
+H0016735,nino_missing,NINO absent,blocking
+H0016744,nino_malformed,NINO fails structure: bad_format,blocking
+H0016750,nino_missing,NINO absent,blocking
+H0016754,nino_malformed,NINO fails structure: bad_format,blocking
+H0016766,nino_missing,NINO absent,blocking
+H0016794,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0016796,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0016796,address_incomplete,missing postcode,advisory
+H0016807,nino_missing,NINO absent,blocking
+H0016820,nino_malformed,NINO fails structure: bad_format,blocking
+H0016827,nino_missing,NINO absent,blocking
+H0016870,nino_malformed,NINO fails structure: bad_format,blocking
+H0016881,dob_missing,date_of_birth='',advisory
+H0016903,nino_missing,NINO absent,blocking
+H0016905,address_incomplete,missing address_line_1,advisory
+H0016915,nino_missing,NINO absent,blocking
+H0016919,dob_missing,date_of_birth='',advisory
+H0016939,nino_missing,NINO absent,blocking
+H0016940,address_incomplete,missing address_line_1,advisory
+H0016949,address_incomplete,missing postcode,advisory
+H0016952,dob_missing,date_of_birth='',advisory
+H0016957,dob_missing,date_of_birth='',advisory
+H0016959,dob_missing,date_of_birth='',advisory
+H0016973,nino_malformed,NINO fails structure: bad_format,blocking
+H0016997,dob_missing,date_of_birth='',advisory
+H0017013,nino_missing,NINO absent,blocking
+H0017053,nino_missing,NINO absent,blocking
+H0017054,address_incomplete,missing address_line_1,advisory
+H0017062,address_incomplete,missing postcode,advisory
+H0017090,nino_malformed,NINO fails structure: bad_format,blocking
+H0017094,nino_missing,NINO absent,blocking
+H0017100,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0017112,nino_missing,NINO absent,blocking
+H0017140,nino_malformed,NINO fails structure: bad_format,blocking
+H0017140,address_incomplete,missing address_line_1,advisory
+H0017148,dob_missing,date_of_birth='',advisory
+H0017177,nino_missing,NINO absent,blocking
+H0017193,nino_missing,NINO absent,blocking
+H0017202,address_incomplete,missing postcode,advisory
+H0017205,nino_missing,NINO absent,blocking
+H0017208,address_incomplete,missing address_line_1,advisory
+H0017218,address_incomplete,missing address_line_1,advisory
+H0017235,dob_missing,date_of_birth='',advisory
+H0017247,nino_missing,NINO absent,blocking
+H0017249,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0017251,nino_malformed,NINO fails structure: bad_format,blocking
+H0017253,nino_malformed,NINO fails structure: bad_format,blocking
+H0017257,nino_missing,NINO absent,blocking
+H0017259,nino_missing,NINO absent,blocking
+H0017280,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0017287,address_incomplete,missing address_line_1,advisory
+H0017292,nino_missing,NINO absent,blocking
+H0017316,address_incomplete,missing postcode,advisory
+H0017346,address_incomplete,missing address_line_1,advisory
+H0017357,address_incomplete,missing postcode,advisory
+H0017362,nino_missing,NINO absent,blocking
+H0017370,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0017385,address_incomplete,missing postcode,advisory
+H0017401,nino_missing,NINO absent,blocking
+H0017406,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0017411,nino_missing,NINO absent,blocking
+H0017419,nino_missing,NINO absent,blocking
+H0017433,address_incomplete,missing address_line_1,advisory
+H0017439,dob_missing,date_of_birth='',advisory
+H0017459,nino_malformed,NINO fails structure: bad_format,blocking
+H0017461,dob_missing,date_of_birth='',advisory
+H0017463,nino_missing,NINO absent,blocking
+H0017481,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0017495,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0017519,nino_missing,NINO absent,blocking
+H0017534,address_incomplete,missing postcode,advisory
+H0017560,address_incomplete,missing postcode,advisory
+H0017577,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0017615,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0017620,address_incomplete,missing postcode,advisory
+H0017631,address_incomplete,missing postcode,advisory
+H0017635,address_incomplete,missing address_line_1,advisory
+H0017643,nino_missing,NINO absent,blocking
+H0017656,address_incomplete,missing address_line_1,advisory
+H0017692,address_incomplete,missing postcode,advisory
+H0017704,nino_missing,NINO absent,blocking
+H0017706,address_incomplete,missing address_line_1,advisory
+H0017714,nino_missing,NINO absent,blocking
+H0017717,nino_malformed,NINO fails structure: bad_format,blocking
+H0017738,address_incomplete,missing postcode,advisory
+H0017772,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0017773,dob_missing,date_of_birth='',advisory
+H0017784,nino_malformed,NINO fails structure: bad_format,blocking
+H0017807,nino_missing,NINO absent,blocking
+H0017810,nino_missing,NINO absent,blocking
+H0017813,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0017825,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0017842,address_incomplete,missing address_line_1,advisory
+H0017848,address_incomplete,missing address_line_1,advisory
+H0017854,nino_missing,NINO absent,blocking
+H0017859,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0017861,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0017862,address_incomplete,missing address_line_1,advisory
+H0017876,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0017882,address_incomplete,missing postcode,advisory
+H0017887,nino_malformed,NINO fails structure: bad_format,blocking
+H0017899,nino_malformed,NINO fails structure: bad_format,blocking
+H0017918,nino_missing,NINO absent,blocking
+H0017918,address_incomplete,missing postcode,advisory
+H0017938,nino_missing,NINO absent,blocking
+H0017947,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0017973,dob_missing,date_of_birth='',advisory
+H0017980,address_incomplete,missing postcode,advisory
+H0017991,address_incomplete,missing address_line_1,advisory
+H0017993,nino_missing,NINO absent,blocking
+H0017997,nino_missing,NINO absent,blocking
+H0018008,nino_missing,NINO absent,blocking
+H0018022,address_incomplete,missing address_line_1,advisory
+H0018036,nino_malformed,NINO fails structure: bad_format,blocking
+H0018043,address_incomplete,missing postcode,advisory
+H0018048,dob_missing,date_of_birth='',advisory
+H0018060,dob_missing,date_of_birth='',advisory
+H0018066,address_incomplete,missing address_line_1,advisory
+H0018075,nino_missing,NINO absent,blocking
+H0018089,nino_malformed,NINO fails structure: bad_format,blocking
+H0018093,dob_missing,date_of_birth='',advisory
+H0018095,nino_missing,NINO absent,blocking
+H0018098,address_incomplete,missing address_line_1,advisory
+H0018099,nino_missing,NINO absent,blocking
+H0018142,dob_missing,date_of_birth='',advisory
+H0018151,nino_missing,NINO absent,blocking
+H0018168,address_incomplete,missing address_line_1,advisory
+H0018180,address_incomplete,missing address_line_1,advisory
+H0018206,address_incomplete,missing address_line_1,advisory
+H0018211,nino_missing,NINO absent,blocking
+H0018217,nino_malformed,NINO fails structure: bad_format,blocking
+H0018258,nino_malformed,NINO fails structure: bad_format,blocking
+H0018279,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0018286,nino_missing,NINO absent,blocking
+H0018287,nino_missing,NINO absent,blocking
+H0018298,nino_missing,NINO absent,blocking
+H0018298,address_incomplete,missing postcode,advisory
+H0018299,nino_malformed,NINO fails structure: bad_format,blocking
+H0018305,nino_missing,NINO absent,blocking
+H0018313,address_incomplete,missing address_line_1,advisory
+H0018328,nino_missing,NINO absent,blocking
+H0018342,nino_missing,NINO absent,blocking
+H0018360,nino_missing,NINO absent,blocking
+H0018404,dob_missing,date_of_birth='',advisory
+H0018406,nino_missing,NINO absent,blocking
+H0018423,address_incomplete,missing postcode,advisory
+H0018435,nino_malformed,NINO fails structure: bad_format,blocking
+H0018447,nino_missing,NINO absent,blocking
+H0018463,address_incomplete,missing address_line_1,advisory
+H0018498,nino_missing,NINO absent,blocking
+H0018503,dob_missing,date_of_birth='',advisory
+H0018518,nino_missing,NINO absent,blocking
+H0018520,nino_malformed,NINO fails structure: bad_format,blocking
+H0018522,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0018526,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0018531,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0018536,nino_missing,NINO absent,blocking
+H0018564,address_incomplete,missing address_line_1,advisory
+H0018603,nino_missing,NINO absent,blocking
+H0018605,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0018612,address_incomplete,missing postcode,advisory
+H0018623,nino_missing,NINO absent,blocking
+H0018642,nino_missing,NINO absent,blocking
+H0018645,nino_missing,NINO absent,blocking
+H0018651,nino_missing,NINO absent,blocking
+H0018658,address_incomplete,missing address_line_1,advisory
+H0018661,dob_missing,date_of_birth='',advisory
+H0018662,nino_missing,NINO absent,blocking
+H0018682,address_incomplete,missing address_line_1,advisory
+H0018687,nino_missing,NINO absent,blocking
+H0018708,dob_missing,date_of_birth='',advisory
+H0018712,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0018737,nino_missing,NINO absent,blocking
+H0018768,dob_missing,date_of_birth='',advisory
+H0018770,nino_malformed,NINO fails structure: bad_format,blocking
+H0018783,nino_malformed,NINO fails structure: bad_format,blocking
+H0018797,address_incomplete,missing postcode,advisory
+H0018811,nino_missing,NINO absent,blocking
+H0018819,nino_missing,NINO absent,blocking
+H0018824,address_incomplete,missing address_line_1,advisory
+H0018833,dob_missing,date_of_birth='',advisory
+H0018841,nino_missing,NINO absent,blocking
+H0018859,dob_missing,date_of_birth='',advisory
+H0018883,address_incomplete,missing address_line_1,advisory
+H0018884,address_incomplete,missing address_line_1,advisory
+H0018906,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0018909,nino_missing,NINO absent,blocking
+H0018913,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0018933,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0018935,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0018940,address_incomplete,missing postcode,advisory
+H0018961,address_incomplete,missing postcode,advisory
+H0018972,dob_missing,date_of_birth='',advisory
+H0018974,address_incomplete,missing postcode,advisory
+H0018979,nino_missing,NINO absent,blocking
+H0018987,dob_missing,date_of_birth='',advisory
+H0018990,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0019001,nino_missing,NINO absent,blocking
+H0019005,nino_missing,NINO absent,blocking
+H0019008,nino_missing,NINO absent,blocking
+H0019023,nino_missing,NINO absent,blocking
+H0019037,nino_missing,NINO absent,blocking
+H0019052,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0019066,dob_missing,date_of_birth='',advisory
+H0019080,nino_missing,NINO absent,blocking
+H0019088,nino_missing,NINO absent,blocking
+H0019095,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0019105,nino_missing,NINO absent,blocking
+H0019109,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0019139,dob_missing,date_of_birth='',advisory
+H0019141,nino_malformed,NINO fails structure: bad_format,blocking
+H0019142,nino_malformed,NINO fails structure: bad_format,blocking
+H0019147,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0019151,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0019174,dob_missing,date_of_birth='',advisory
+H0019185,dob_missing,date_of_birth='',advisory
+H0019188,nino_missing,NINO absent,blocking
+H0019192,nino_missing,NINO absent,blocking
+H0019195,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0019236,nino_malformed,NINO fails structure: bad_format,blocking
+H0019237,nino_malformed,NINO fails structure: bad_format,blocking
+H0019238,nino_missing,NINO absent,blocking
+H0019241,dob_missing,date_of_birth='',advisory
+H0019243,nino_missing,NINO absent,blocking
+H0019258,dob_missing,date_of_birth='',advisory
+H0019263,nino_missing,NINO absent,blocking
+H0019267,dob_missing,date_of_birth='',advisory
+H0019293,address_incomplete,missing address_line_1,advisory
+H0019319,dob_missing,date_of_birth='',advisory
+H0019334,nino_missing,NINO absent,blocking
+H0019342,nino_malformed,NINO fails structure: bad_format,blocking
+H0019364,nino_missing,NINO absent,blocking
+H0019365,nino_missing,NINO absent,blocking
+H0019384,dob_missing,date_of_birth='',advisory
+H0019389,address_incomplete,missing postcode,advisory
+H0019407,nino_missing,NINO absent,blocking
+H0019407,dob_missing,date_of_birth='',advisory
+H0019432,address_incomplete,missing postcode,advisory
+H0019434,nino_missing,NINO absent,blocking
+H0019450,nino_missing,NINO absent,blocking
+H0019454,address_incomplete,missing postcode,advisory
+H0019460,nino_missing,NINO absent,blocking
+H0019460,address_incomplete,missing address_line_1,advisory
+H0019464,nino_missing,NINO absent,blocking
+H0019474,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0019488,address_incomplete,missing address_line_1,advisory
+H0019490,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0019498,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0019507,nino_malformed,NINO fails structure: bad_format,blocking
+H0019540,nino_malformed,NINO fails structure: bad_format,blocking
+H0019554,nino_missing,NINO absent,blocking
+H0019560,dob_missing,date_of_birth='',advisory
+H0019568,nino_missing,NINO absent,blocking
+H0019569,address_incomplete,missing postcode,advisory
+H0019571,nino_missing,NINO absent,blocking
+H0019581,nino_malformed,NINO fails structure: bad_format,blocking
+H0019592,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0019595,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0019600,nino_missing,NINO absent,blocking
+H0019608,nino_missing,NINO absent,blocking
+H0019609,nino_missing,NINO absent,blocking
+H0019610,nino_missing,NINO absent,blocking
+H0019613,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0019622,nino_missing,NINO absent,blocking
+H0019652,nino_missing,NINO absent,blocking
+H0019657,address_incomplete,missing address_line_1,advisory
+H0019675,nino_missing,NINO absent,blocking
+H0019688,address_incomplete,missing postcode,advisory
+H0019690,dob_missing,date_of_birth='',advisory
+H0019702,address_incomplete,missing address_line_1,advisory
+H0019704,nino_missing,NINO absent,blocking
+H0019709,nino_missing,NINO absent,blocking
+H0019716,dob_missing,date_of_birth='',advisory
+H0019738,nino_malformed,NINO fails structure: bad_format,blocking
+H0019752,nino_malformed,NINO fails structure: bad_format,blocking
+H0019772,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0019776,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0019793,dob_missing,date_of_birth='',advisory
+H0019813,nino_missing,NINO absent,blocking
+H0019857,dob_missing,date_of_birth='',advisory
+H0019872,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0019883,nino_missing,NINO absent,blocking
+H0019895,nino_malformed,NINO fails structure: bad_format,blocking
+H0019913,dob_missing,date_of_birth='',advisory
+H0019938,nino_malformed,NINO fails structure: bad_format,blocking
+H0019942,nino_missing,NINO absent,blocking
+H0019956,nino_malformed,NINO fails structure: bad_format,blocking
+H0019960,nino_missing,NINO absent,blocking
+H0019967,nino_malformed,NINO fails structure: bad_format,blocking
+H0019974,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0019979,nino_missing,NINO absent,blocking
+H0019988,nino_missing,NINO absent,blocking
+H0020003,address_incomplete,missing postcode,advisory
+H0020004,nino_missing,NINO absent,blocking
+H0020012,dob_missing,date_of_birth='',advisory
+H0020023,nino_malformed,NINO fails structure: bad_format,blocking
+H0020023,address_incomplete,missing address_line_1,advisory
+H0020073,address_incomplete,missing postcode,advisory
+H0020076,nino_missing,NINO absent,blocking
+H0020101,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0020103,nino_malformed,NINO fails structure: bad_format,blocking
+H0020114,nino_missing,NINO absent,blocking
+H0020131,address_incomplete,missing postcode,advisory
+H0020143,nino_missing,NINO absent,blocking
+H0020145,nino_malformed,NINO fails structure: bad_format,blocking
+H0020149,address_incomplete,missing postcode,advisory
+H0020152,address_incomplete,missing address_line_1,advisory
+H0020154,dob_missing,date_of_birth='',advisory
+H0020176,nino_malformed,NINO fails structure: bad_format,blocking
+H0020203,address_incomplete,missing address_line_1,advisory
+H0020214,nino_missing,NINO absent,blocking
+H0020227,nino_missing,NINO absent,blocking
+H0020243,address_incomplete,missing address_line_1,advisory
+H0020254,dob_missing,date_of_birth='',advisory
+H0020264,address_incomplete,missing postcode,advisory
+H0020268,nino_missing,NINO absent,blocking
+H0020277,nino_malformed,NINO fails structure: bad_format,blocking
+H0020282,dob_missing,date_of_birth='',advisory
+H0020285,dob_missing,date_of_birth='',advisory
+H0020287,address_incomplete,missing address_line_1,advisory
+H0020321,nino_missing,NINO absent,blocking
+H0020323,nino_missing,NINO absent,blocking
+H0020337,address_incomplete,missing postcode,advisory
+H0020369,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0020391,nino_missing,NINO absent,blocking
+H0020397,nino_malformed,NINO fails structure: bad_format,blocking
+H0020444,address_incomplete,missing postcode,advisory
+H0020453,address_incomplete,missing postcode,advisory
+H0020454,nino_missing,NINO absent,blocking
+H0020507,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0020510,address_incomplete,missing postcode,advisory
+H0020511,nino_missing,NINO absent,blocking
+H0020513,nino_missing,NINO absent,blocking
+H0020515,nino_missing,NINO absent,blocking
+H0020519,nino_missing,NINO absent,blocking
+H0020524,address_incomplete,missing address_line_1,advisory
+H0020528,nino_missing,NINO absent,blocking
+H0020531,nino_missing,NINO absent,blocking
+H0020542,address_incomplete,missing postcode,advisory
+H0020543,address_incomplete,missing postcode,advisory
+H0020547,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0020547,dob_missing,date_of_birth='',advisory
+H0020550,address_incomplete,missing address_line_1,advisory
+H0020606,address_incomplete,missing address_line_1,advisory
+H0020613,nino_malformed,NINO fails structure: bad_format,blocking
+H0020623,nino_missing,NINO absent,blocking
+H0020632,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0020633,nino_missing,NINO absent,blocking
+H0020645,dob_missing,date_of_birth='',advisory
+H0020647,nino_malformed,NINO fails structure: bad_format,blocking
+H0020653,address_incomplete,missing address_line_1,advisory
+H0020659,address_incomplete,missing address_line_1,advisory
+H0020660,nino_missing,NINO absent,blocking
+H0020666,address_incomplete,missing postcode,advisory
+H0020669,nino_missing,NINO absent,blocking
+H0020686,nino_missing,NINO absent,blocking
+H0020694,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0020694,dob_missing,date_of_birth='',advisory
+H0020724,nino_malformed,NINO fails structure: bad_format,blocking
+H0020730,nino_missing,NINO absent,blocking
+H0020743,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0020764,address_incomplete,missing postcode,advisory
+H0020779,nino_missing,NINO absent,blocking
+H0020781,nino_malformed,NINO fails structure: bad_format,blocking
+H0020810,address_incomplete,missing address_line_1,advisory
+H0020819,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0020821,nino_missing,NINO absent,blocking
+H0020821,address_incomplete,missing postcode,advisory
+H0020837,dob_missing,date_of_birth='',advisory
+H0020849,nino_missing,NINO absent,blocking
+H0020852,dob_missing,date_of_birth='',advisory
+H0020853,address_incomplete,missing postcode,advisory
+H0020863,address_incomplete,missing postcode,advisory
+H0020871,nino_missing,NINO absent,blocking
+H0020884,address_incomplete,missing postcode,advisory
+H0020886,nino_missing,NINO absent,blocking
+H0020887,dob_missing,date_of_birth='',advisory
+H0020893,nino_missing,NINO absent,blocking
+H0020910,nino_missing,NINO absent,blocking
+H0020920,nino_missing,NINO absent,blocking
+H0020928,nino_missing,NINO absent,blocking
+H0020943,dob_missing,date_of_birth='',advisory
+H0020944,nino_malformed,NINO fails structure: bad_format,blocking
+H0020952,address_incomplete,missing postcode,advisory
+H0020963,nino_missing,NINO absent,blocking
+H0020964,nino_missing,NINO absent,blocking
+H0020971,nino_missing,NINO absent,blocking
+H0020985,nino_missing,NINO absent,blocking
+H0020999,address_incomplete,missing address_line_1,advisory
+H0021013,nino_missing,NINO absent,blocking
+H0021017,dob_missing,date_of_birth='',advisory
+H0021019,address_incomplete,missing address_line_1,advisory
+H0021027,nino_missing,NINO absent,blocking
+H0021057,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0021065,nino_missing,NINO absent,blocking
+H0021066,nino_missing,NINO absent,blocking
+H0021066,address_incomplete,missing address_line_1,advisory
+H0021067,nino_missing,NINO absent,blocking
+H0021083,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0021084,nino_missing,NINO absent,blocking
+H0021084,address_incomplete,missing address_line_1,advisory
+H0021102,address_incomplete,missing address_line_1,advisory
+H0021104,nino_missing,NINO absent,blocking
+H0021143,nino_malformed,NINO fails structure: bad_format,blocking
+H0021150,nino_missing,NINO absent,blocking
+H0021158,address_incomplete,missing postcode,advisory
+H0021161,address_incomplete,missing address_line_1,advisory
+H0021163,nino_missing,NINO absent,blocking
+H0021164,nino_missing,NINO absent,blocking
+H0021166,address_incomplete,missing address_line_1,advisory
+H0021167,nino_malformed,NINO fails structure: bad_format,blocking
+H0021169,nino_missing,NINO absent,blocking
+H0021182,address_incomplete,missing address_line_1,advisory
+H0021184,address_incomplete,missing address_line_1,advisory
+H0021185,nino_missing,NINO absent,blocking
+H0021186,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0021225,dob_missing,date_of_birth='',advisory
+H0021242,nino_malformed,NINO fails structure: bad_format,blocking
+H0021249,address_incomplete,missing postcode,advisory
+H0021256,nino_malformed,NINO fails structure: bad_format,blocking
+H0021307,address_incomplete,missing address_line_1,advisory
+H0021309,nino_missing,NINO absent,blocking
+H0021312,nino_missing,NINO absent,blocking
+H0021334,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0021341,nino_missing,NINO absent,blocking
+H0021341,dob_missing,date_of_birth='',advisory
+H0021345,address_incomplete,missing address_line_1,advisory
+H0021351,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0021358,dob_missing,date_of_birth='',advisory
+H0021378,nino_missing,NINO absent,blocking
+H0021380,address_incomplete,missing address_line_1,advisory
+H0021408,nino_missing,NINO absent,blocking
+H0021432,nino_missing,NINO absent,blocking
+H0021453,address_incomplete,missing postcode,advisory
+H0021462,address_incomplete,missing postcode,advisory
+H0021465,nino_missing,NINO absent,blocking
+H0021479,address_incomplete,missing postcode,advisory
+H0021491,address_incomplete,missing address_line_1,advisory
+H0021494,nino_malformed,NINO fails structure: bad_format,blocking
+H0021510,nino_missing,NINO absent,blocking
+H0021517,address_incomplete,missing postcode,advisory
+H0021527,address_incomplete,missing postcode,advisory
+H0021554,dob_missing,date_of_birth='',advisory
+H0021559,nino_missing,NINO absent,blocking
+H0021564,nino_missing,NINO absent,blocking
+H0021573,address_incomplete,missing address_line_1,advisory
+H0021592,address_incomplete,missing address_line_1,advisory
+H0021608,nino_missing,NINO absent,blocking
+H0021612,address_incomplete,missing postcode,advisory
+H0021622,nino_missing,NINO absent,blocking
+H0021627,nino_missing,NINO absent,blocking
+H0021638,nino_missing,NINO absent,blocking
+H0021644,nino_missing,NINO absent,blocking
+H0021654,nino_missing,NINO absent,blocking
+H0021655,address_incomplete,missing address_line_1,advisory
+H0021666,address_incomplete,missing address_line_1,advisory
+H0021667,address_incomplete,missing address_line_1,advisory
+H0021668,nino_missing,NINO absent,blocking
+H0021683,nino_missing,NINO absent,blocking
+H0021709,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0021711,dob_missing,date_of_birth='',advisory
+H0021716,address_incomplete,missing postcode,advisory
+H0021719,nino_missing,NINO absent,blocking
+H0021741,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0021754,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0021756,address_incomplete,missing address_line_1,advisory
+H0021764,nino_missing,NINO absent,blocking
+H0021772,nino_missing,NINO absent,blocking
+H0021772,dob_missing,date_of_birth='',advisory
+H0021794,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0021795,nino_missing,NINO absent,blocking
+H0021800,dob_missing,date_of_birth='',advisory
+H0021803,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0021819,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0021830,address_incomplete,missing address_line_1,advisory
+H0021833,address_incomplete,missing address_line_1,advisory
+H0021842,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0021853,dob_missing,date_of_birth='',advisory
+H0021854,nino_missing,NINO absent,blocking
+H0021870,nino_missing,NINO absent,blocking
+H0021875,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0021894,address_incomplete,missing address_line_1,advisory
+H0021896,nino_malformed,NINO fails structure: bad_format,blocking
+H0021938,dob_missing,date_of_birth='',advisory
+H0021943,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0021993,nino_missing,NINO absent,blocking
+H0022007,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0022011,address_incomplete,missing address_line_1,advisory
+H0022024,dob_missing,date_of_birth='',advisory
+H0022036,nino_malformed,NINO fails structure: bad_format,blocking
+H0022066,nino_malformed,NINO fails structure: bad_format,blocking
+H0022092,nino_missing,NINO absent,blocking
+H0022105,address_incomplete,missing address_line_1,advisory
+H0022109,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0022109,dob_missing,date_of_birth='',advisory
+H0022109,address_incomplete,missing postcode,advisory
+H0022110,dob_missing,date_of_birth='',advisory
+H0022121,address_incomplete,missing address_line_1,advisory
+H0022137,nino_missing,NINO absent,blocking
+H0022155,address_incomplete,missing postcode,advisory
+H0022182,nino_malformed,NINO fails structure: bad_format,blocking
+H0022190,address_incomplete,missing postcode,advisory
+H0022209,dob_missing,date_of_birth='',advisory
+H0022213,nino_missing,NINO absent,blocking
+H0022227,nino_malformed,NINO fails structure: bad_format,blocking
+H0022237,dob_missing,date_of_birth='',advisory
+H0022267,address_incomplete,missing postcode,advisory
+H0022272,nino_missing,NINO absent,blocking
+H0022278,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0022309,nino_missing,NINO absent,blocking
+H0022312,nino_missing,NINO absent,blocking
+H0022321,nino_missing,NINO absent,blocking
+H0022326,address_incomplete,missing address_line_1,advisory
+H0022336,address_incomplete,missing postcode,advisory
+H0022345,nino_missing,NINO absent,blocking
+H0022364,nino_missing,NINO absent,blocking
+H0022365,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0022370,nino_missing,NINO absent,blocking
+H0022380,nino_missing,NINO absent,blocking
+H0022384,nino_missing,NINO absent,blocking
+H0022400,nino_malformed,NINO fails structure: bad_format,blocking
+H0022413,nino_missing,NINO absent,blocking
+H0022426,address_incomplete,missing postcode,advisory
+H0022435,address_incomplete,missing address_line_1,advisory
+H0022437,nino_missing,NINO absent,blocking
+H0022438,dob_missing,date_of_birth='',advisory
+H0022449,address_incomplete,missing address_line_1,advisory
+H0022455,nino_malformed,NINO fails structure: bad_format,blocking
+H0022494,nino_missing,NINO absent,blocking
+H0022503,address_incomplete,missing address_line_1,advisory
+H0022509,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0022517,dob_missing,date_of_birth='',advisory
+H0022528,address_incomplete,missing address_line_1,advisory
+H0022532,nino_missing,NINO absent,blocking
+H0022547,nino_malformed,NINO fails structure: bad_format,blocking
+H0022557,nino_missing,NINO absent,blocking
+H0022564,nino_missing,NINO absent,blocking
+H0022572,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0022582,dob_missing,date_of_birth='',advisory
+H0022595,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0022605,nino_missing,NINO absent,blocking
+H0022648,dob_missing,date_of_birth='',advisory
+H0022662,nino_missing,NINO absent,blocking
+H0022692,address_incomplete,missing address_line_1,advisory
+H0022707,dob_missing,date_of_birth='',advisory
+H0022710,dob_missing,date_of_birth='',advisory
+H0022712,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0022719,address_incomplete,missing address_line_1,advisory
+H0022740,address_incomplete,missing postcode,advisory
+H0022760,dob_missing,date_of_birth='',advisory
+H0022762,nino_malformed,NINO fails structure: bad_format,blocking
+H0022765,nino_missing,NINO absent,blocking
+H0022773,address_incomplete,missing address_line_1,advisory
+H0022784,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0022813,nino_missing,NINO absent,blocking
+H0022816,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0022840,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0022845,address_incomplete,missing postcode,advisory
+H0022862,dob_missing,date_of_birth='',advisory
+H0022868,address_incomplete,missing address_line_1,advisory
+H0022879,nino_missing,NINO absent,blocking
+H0022899,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0022910,dob_missing,date_of_birth='',advisory
+H0022916,nino_missing,NINO absent,blocking
+H0022963,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0022969,address_incomplete,missing address_line_1,advisory
+H0022976,dob_missing,date_of_birth='',advisory
+H0022989,address_incomplete,missing postcode,advisory
+H0023014,nino_missing,NINO absent,blocking
+H0023017,nino_missing,NINO absent,blocking
+H0023025,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0023033,address_incomplete,missing postcode,advisory
+H0023037,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0023058,nino_malformed,NINO fails structure: bad_format,blocking
+H0023066,nino_missing,NINO absent,blocking
+H0023071,nino_missing,NINO absent,blocking
+H0023104,address_incomplete,missing postcode,advisory
+H0023111,nino_missing,NINO absent,blocking
+H0023112,dob_missing,date_of_birth='',advisory
+H0023120,address_incomplete,missing postcode,advisory
+H0023123,address_incomplete,missing address_line_1,advisory
+H0023125,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0023134,dob_missing,date_of_birth='',advisory
+H0023151,nino_missing,NINO absent,blocking
+H0023152,address_incomplete,missing address_line_1,advisory
+H0023188,nino_missing,NINO absent,blocking
+H0023207,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0023208,dob_missing,date_of_birth='',advisory
+H0023217,address_incomplete,missing postcode,advisory
+H0023241,nino_missing,NINO absent,blocking
+H0023243,address_incomplete,missing postcode,advisory
+H0023246,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0023266,nino_missing,NINO absent,blocking
+H0023275,nino_missing,NINO absent,blocking
+H0023280,nino_missing,NINO absent,blocking
+H0023283,dob_missing,date_of_birth='',advisory
+H0023291,nino_missing,NINO absent,blocking
+H0023298,dob_missing,date_of_birth='',advisory
+H0023303,nino_missing,NINO absent,blocking
+H0023312,address_incomplete,missing postcode,advisory
+H0023319,address_incomplete,missing address_line_1,advisory
+H0023327,dob_missing,date_of_birth='',advisory
+H0023330,dob_missing,date_of_birth='',advisory
+H0023343,nino_malformed,NINO fails structure: bad_format,blocking
+H0023353,address_incomplete,missing postcode,advisory
+H0023354,nino_missing,NINO absent,blocking
+H0023368,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0023378,nino_missing,NINO absent,blocking
+H0023402,nino_missing,NINO absent,blocking
+H0023405,nino_missing,NINO absent,blocking
+H0023408,dob_missing,date_of_birth='',advisory
+H0023413,nino_malformed,NINO fails structure: bad_format,blocking
+H0023436,nino_missing,NINO absent,blocking
+H0023445,nino_malformed,NINO fails structure: bad_format,blocking
+H0023452,address_incomplete,missing address_line_1,advisory
+H0023482,dob_missing,date_of_birth='',advisory
+H0023486,nino_missing,NINO absent,blocking
+H0023500,nino_missing,NINO absent,blocking
+H0023502,nino_missing,NINO absent,blocking
+H0023504,address_incomplete,missing postcode,advisory
+H0023506,nino_missing,NINO absent,blocking
+H0023518,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0023620,dob_missing,date_of_birth='',advisory
+H0023647,nino_malformed,NINO fails structure: bad_format,blocking
+H0023688,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0023704,address_incomplete,missing address_line_1,advisory
+H0023707,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0023724,dob_missing,date_of_birth='',advisory
+H0023727,address_incomplete,missing address_line_1,advisory
+H0023729,nino_missing,NINO absent,blocking
+H0023748,nino_missing,NINO absent,blocking
+H0023758,nino_missing,NINO absent,blocking
+H0023761,address_incomplete,missing address_line_1,advisory
+H0023763,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0023775,nino_malformed,NINO fails structure: bad_format,blocking
+H0023789,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0023808,nino_missing,NINO absent,blocking
+H0023815,nino_missing,NINO absent,blocking
+H0023816,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0023823,nino_malformed,NINO fails structure: bad_format,blocking
+H0023827,nino_malformed,NINO fails structure: bad_format,blocking
+H0023843,nino_missing,NINO absent,blocking
+H0023845,nino_malformed,NINO fails structure: bad_format,blocking
+H0023851,nino_missing,NINO absent,blocking
+H0023851,address_incomplete,missing address_line_1,advisory
+H0023857,dob_missing,date_of_birth='',advisory
+H0023858,nino_missing,NINO absent,blocking
+H0023911,dob_missing,date_of_birth='',advisory
+H0023931,nino_missing,NINO absent,blocking
+H0023938,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0023959,nino_missing,NINO absent,blocking
+H0023965,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0024009,nino_missing,NINO absent,blocking
+H0024010,nino_missing,NINO absent,blocking
+H0024054,nino_missing,NINO absent,blocking
+H0024062,nino_missing,NINO absent,blocking
+H0024064,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0024073,address_incomplete,missing address_line_1,advisory
+H0024091,nino_missing,NINO absent,blocking
+H0024101,address_incomplete,missing postcode,advisory
+H0024105,address_incomplete,missing address_line_1,advisory
+H0024115,address_incomplete,missing address_line_1,advisory
+H0024117,nino_missing,NINO absent,blocking
+H0024133,address_incomplete,missing postcode,advisory
+H0024158,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0024166,address_incomplete,missing postcode,advisory
+H0024176,nino_missing,NINO absent,blocking
+H0024182,nino_missing,NINO absent,blocking
+H0024189,address_incomplete,missing address_line_1,advisory
+H0024202,nino_missing,NINO absent,blocking
+H0024225,nino_missing,NINO absent,blocking
+H0024233,address_incomplete,missing postcode,advisory
+H0024247,nino_missing,NINO absent,blocking
+H0024271,dob_missing,date_of_birth='',advisory
+H0024282,nino_malformed,NINO fails structure: bad_format,blocking
+H0024290,nino_missing,NINO absent,blocking
+H0024297,nino_malformed,NINO fails structure: bad_format,blocking
+H0024303,dob_missing,date_of_birth='',advisory
+H0024307,nino_missing,NINO absent,blocking
+H0024332,address_incomplete,missing postcode,advisory
+H0024357,nino_missing,NINO absent,blocking
+H0024377,nino_malformed,NINO fails structure: bad_format,blocking
+H0024382,address_incomplete,missing postcode,advisory
+H0024392,nino_missing,NINO absent,blocking
+H0024395,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0024400,nino_missing,NINO absent,blocking
+H0024425,nino_missing,NINO absent,blocking
+H0024434,dob_missing,date_of_birth='',advisory
+H0024450,nino_missing,NINO absent,blocking
+H0024457,dob_missing,date_of_birth='',advisory
+H0024472,nino_missing,NINO absent,blocking
+H0024488,address_incomplete,missing postcode,advisory
+H0024495,nino_missing,NINO absent,blocking
+H0024502,address_incomplete,missing postcode,advisory
+H0024516,nino_missing,NINO absent,blocking
+H0024517,address_incomplete,missing postcode,advisory
+H0024529,dob_missing,date_of_birth='',advisory
+H0024537,address_incomplete,missing address_line_1,advisory
+H0024561,address_incomplete,missing address_line_1,advisory
+H0024578,nino_missing,NINO absent,blocking
+H0024624,nino_malformed,NINO fails structure: bad_format,blocking
+H0024657,nino_missing,NINO absent,blocking
+H0024663,nino_missing,NINO absent,blocking
+H0024671,address_incomplete,missing postcode,advisory
+H0024674,address_incomplete,missing postcode,advisory
+H0024675,dob_missing,date_of_birth='',advisory
+H0024681,nino_missing,NINO absent,blocking
+H0024685,nino_missing,NINO absent,blocking
+H0024688,address_incomplete,missing postcode,advisory
+H0024693,nino_malformed,NINO fails structure: bad_format,blocking
+H0024697,nino_malformed,NINO fails structure: bad_format,blocking
+H0024706,address_incomplete,missing address_line_1,advisory
+H0024712,address_incomplete,missing postcode,advisory
+H0024718,address_incomplete,missing postcode,advisory
+H0024743,nino_missing,NINO absent,blocking
+H0024767,nino_missing,NINO absent,blocking
+H0024767,address_incomplete,missing postcode,advisory
+H0024769,address_incomplete,missing address_line_1,advisory
+H0024775,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0024775,address_incomplete,missing address_line_1,advisory
+H0024779,nino_missing,NINO absent,blocking
+H0024779,dob_missing,date_of_birth='',advisory
+H0024782,nino_malformed,NINO fails structure: bad_format,blocking
+H0024789,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0024789,address_incomplete,missing address_line_1,advisory
+H0024799,nino_missing,NINO absent,blocking
+H0024819,address_incomplete,missing postcode,advisory
+H0024827,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0024834,dob_missing,date_of_birth='',advisory
+H0024843,nino_malformed,NINO fails structure: bad_format,blocking
+H0024881,nino_missing,NINO absent,blocking
+H0024886,address_incomplete,missing postcode,advisory
+H0024888,nino_missing,NINO absent,blocking
+H0024916,nino_missing,NINO absent,blocking
+H0024938,dob_missing,date_of_birth='',advisory
+H0024942,dob_missing,date_of_birth='',advisory
+H0024948,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0024980,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0024980,dob_missing,date_of_birth='',advisory
+H0024993,address_incomplete,missing postcode,advisory
+H0024996,dob_missing,date_of_birth='',advisory
+H0025003,address_incomplete,missing address_line_1,advisory
+H0025014,nino_missing,NINO absent,blocking
+H0025025,nino_missing,NINO absent,blocking
+H0025026,nino_malformed,NINO fails structure: bad_format,blocking
+H0025029,nino_missing,NINO absent,blocking
+H0025035,nino_missing,NINO absent,blocking
+H0025037,address_incomplete,missing postcode,advisory
+H0025047,nino_missing,NINO absent,blocking
+H0025071,nino_missing,NINO absent,blocking
+H0025072,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0025079,nino_missing,NINO absent,blocking
+H0025082,dob_missing,date_of_birth='',advisory
+H0025096,dob_missing,date_of_birth='',advisory
+H0025102,nino_missing,NINO absent,blocking
+H0025109,nino_missing,NINO absent,blocking
+H0025112,nino_missing,NINO absent,blocking
+H0025114,address_incomplete,missing address_line_1,advisory
+H0025134,address_incomplete,missing postcode,advisory
+H0025146,nino_missing,NINO absent,blocking
+H0025158,address_incomplete,missing address_line_1,advisory
+H0025176,address_incomplete,missing address_line_1,advisory
+H0025203,nino_missing,NINO absent,blocking
+H0025234,nino_missing,NINO absent,blocking
+H0025243,dob_missing,date_of_birth='',advisory
+H0025256,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0025264,dob_missing,date_of_birth='',advisory
+H0025265,address_incomplete,missing postcode,advisory
+H0025266,address_incomplete,missing address_line_1,advisory
+H0025325,nino_missing,NINO absent,blocking
+H0025325,address_incomplete,missing postcode,advisory
+H0025340,nino_missing,NINO absent,blocking
+H0025393,address_incomplete,missing postcode,advisory
+H0025404,nino_missing,NINO absent,blocking
+H0025406,dob_missing,date_of_birth='',advisory
+H0025414,dob_missing,date_of_birth='',advisory
+H0025429,address_incomplete,missing postcode,advisory
+H0025448,dob_missing,date_of_birth='',advisory
+H0025452,nino_missing,NINO absent,blocking
+H0025453,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0025454,nino_missing,NINO absent,blocking
+H0025518,nino_missing,NINO absent,blocking
+H0025543,nino_malformed,NINO fails structure: bad_format,blocking
+H0025561,dob_missing,date_of_birth='',advisory
+H0025570,nino_missing,NINO absent,blocking
+H0025579,address_incomplete,missing postcode,advisory
+H0025598,nino_missing,NINO absent,blocking
+H0025602,nino_missing,NINO absent,blocking
+H0025607,address_incomplete,missing address_line_1,advisory
+H0025619,dob_missing,date_of_birth='',advisory
+H0025646,nino_missing,NINO absent,blocking
+H0025654,dob_missing,date_of_birth='',advisory
+H0025656,nino_malformed,NINO fails structure: bad_format,blocking
+H0025656,address_incomplete,missing postcode,advisory
+H0025657,nino_missing,NINO absent,blocking
+H0025663,nino_malformed,NINO fails structure: bad_format,blocking
+H0025664,nino_malformed,NINO fails structure: bad_format,blocking
+H0025668,nino_missing,NINO absent,blocking
+H0025731,address_incomplete,missing postcode,advisory
+H0025739,nino_missing,NINO absent,blocking
+H0025763,nino_missing,NINO absent,blocking
+H0025766,nino_missing,NINO absent,blocking
+H0025793,nino_malformed,NINO fails structure: bad_format,blocking
+H0025793,address_incomplete,missing address_line_1,advisory
+H0025795,dob_missing,date_of_birth='',advisory
+H0025796,nino_missing,NINO absent,blocking
+H0025802,nino_malformed,NINO fails structure: bad_format,blocking
+H0025808,nino_missing,NINO absent,blocking
+H0025816,nino_missing,NINO absent,blocking
+H0025820,dob_missing,date_of_birth='',advisory
+H0025827,nino_missing,NINO absent,blocking
+H0025839,nino_malformed,NINO fails structure: bad_format,blocking
+H0025864,nino_missing,NINO absent,blocking
+H0025865,dob_missing,date_of_birth='',advisory
+H0025872,nino_missing,NINO absent,blocking
+H0025885,dob_missing,date_of_birth='',advisory
+H0025887,address_incomplete,missing postcode,advisory
+H0025892,nino_missing,NINO absent,blocking
+H0025893,address_incomplete,missing address_line_1,advisory
+H0025895,dob_missing,date_of_birth='',advisory
+H0025901,nino_missing,NINO absent,blocking
+H0025911,address_incomplete,missing postcode,advisory
+H0025917,dob_missing,date_of_birth='',advisory
+H0025923,address_incomplete,missing address_line_1,advisory
+H0025951,nino_missing,NINO absent,blocking
+H0025981,address_incomplete,missing address_line_1,advisory
+H0025987,nino_missing,NINO absent,blocking
+H0026006,dob_missing,date_of_birth='',advisory
+H0026029,nino_missing,NINO absent,blocking
+H0026043,dob_missing,date_of_birth='',advisory
+H0026054,nino_malformed,NINO fails structure: bad_format,blocking
+H0026057,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0026061,nino_malformed,NINO fails structure: bad_format,blocking
+H0026063,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0026091,address_incomplete,missing address_line_1,advisory
+H0026096,nino_missing,NINO absent,blocking
+H0026106,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0026107,address_incomplete,missing address_line_1,advisory
+H0026119,dob_missing,date_of_birth='',advisory
+H0026124,nino_malformed,NINO fails structure: bad_format,blocking
+H0026132,nino_malformed,NINO fails structure: bad_format,blocking
+H0026141,nino_missing,NINO absent,blocking
+H0026169,nino_missing,NINO absent,blocking
+H0026171,address_incomplete,missing postcode,advisory
+H0026172,nino_missing,NINO absent,blocking
+H0026174,address_incomplete,missing postcode,advisory
+H0026211,nino_missing,NINO absent,blocking
+H0026216,address_incomplete,missing postcode,advisory
+H0026223,nino_malformed,NINO fails structure: bad_format,blocking
+H0026229,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0026237,nino_malformed,NINO fails structure: bad_format,blocking
+H0026252,address_incomplete,missing address_line_1,advisory
+H0026276,nino_missing,NINO absent,blocking
+H0026290,nino_missing,NINO absent,blocking
+H0026310,dob_missing,date_of_birth='',advisory
+H0026334,dob_missing,date_of_birth='',advisory
+H0026338,nino_missing,NINO absent,blocking
+H0026340,nino_missing,NINO absent,blocking
+H0026341,dob_missing,date_of_birth='',advisory
+H0026372,nino_malformed,NINO fails structure: bad_format,blocking
+H0026380,address_incomplete,missing address_line_1,advisory
+H0026386,nino_missing,NINO absent,blocking
+H0026387,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0026390,nino_missing,NINO absent,blocking
+H0026411,nino_missing,NINO absent,blocking
+H0026411,address_incomplete,missing postcode,advisory
+H0026416,nino_missing,NINO absent,blocking
+H0026422,nino_malformed,NINO fails structure: bad_format,blocking
+H0026422,address_incomplete,missing postcode,advisory
+H0026436,nino_missing,NINO absent,blocking
+H0026442,nino_missing,NINO absent,blocking
+H0026444,nino_malformed,NINO fails structure: bad_format,blocking
+H0026456,address_incomplete,missing postcode,advisory
+H0026472,nino_missing,NINO absent,blocking
+H0026488,nino_malformed,NINO fails structure: bad_format,blocking
+H0026512,nino_missing,NINO absent,blocking
+H0026519,nino_missing,NINO absent,blocking
+H0026554,nino_missing,NINO absent,blocking
+H0026603,nino_missing,NINO absent,blocking
+H0026607,dob_missing,date_of_birth='',advisory
+H0026612,address_incomplete,missing address_line_1,advisory
+H0026639,address_incomplete,missing address_line_1,advisory
+H0026644,address_incomplete,missing postcode,advisory
+H0026672,address_incomplete,missing address_line_1,advisory
+H0026698,nino_missing,NINO absent,blocking
+H0026700,nino_missing,NINO absent,blocking
+H0026702,dob_missing,date_of_birth='',advisory
+H0026717,address_incomplete,missing address_line_1,advisory
+H0026718,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0026728,nino_missing,NINO absent,blocking
+H0026730,nino_missing,NINO absent,blocking
+H0026743,address_incomplete,missing postcode,advisory
+H0026744,nino_missing,NINO absent,blocking
+H0026752,nino_malformed,NINO fails structure: bad_format,blocking
+H0026756,address_incomplete,missing address_line_1,advisory
+H0026768,nino_missing,NINO absent,blocking
+H0026773,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0026796,nino_malformed,NINO fails structure: bad_format,blocking
+H0026810,address_incomplete,missing address_line_1,advisory
+H0026820,address_incomplete,missing address_line_1,advisory
+H0026839,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0026868,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0026874,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0026875,address_incomplete,missing postcode,advisory
+H0026880,nino_missing,NINO absent,blocking
+H0026882,address_incomplete,missing postcode,advisory
+H0026888,dob_missing,date_of_birth='',advisory
+H0026911,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0026912,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0026921,address_incomplete,missing postcode,advisory
+H0026925,address_incomplete,missing address_line_1,advisory
+H0026931,nino_missing,NINO absent,blocking
+H0026936,nino_missing,NINO absent,blocking
+H0026938,nino_missing,NINO absent,blocking
+H0026952,dob_missing,date_of_birth='',advisory
+H0027010,nino_missing,NINO absent,blocking
+H0027027,address_incomplete,missing postcode,advisory
+H0027029,dob_missing,date_of_birth='',advisory
+H0027086,address_incomplete,missing postcode,advisory
+H0027106,dob_missing,date_of_birth='',advisory
+H0027127,nino_missing,NINO absent,blocking
+H0027135,nino_missing,NINO absent,blocking
+H0027143,dob_missing,date_of_birth='',advisory
+H0027144,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0027172,nino_malformed,NINO fails structure: bad_format,blocking
+H0027196,address_incomplete,missing postcode,advisory
+H0027212,nino_missing,NINO absent,blocking
+H0027212,address_incomplete,missing address_line_1,advisory
+H0027219,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0027244,dob_missing,date_of_birth='',advisory
+H0027251,nino_missing,NINO absent,blocking
+H0027268,nino_missing,NINO absent,blocking
+H0027292,address_incomplete,missing address_line_1,advisory
+H0027317,nino_missing,NINO absent,blocking
+H0027354,nino_missing,NINO absent,blocking
+H0027355,dob_missing,date_of_birth='',advisory
+H0027357,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0027366,address_incomplete,missing address_line_1,advisory
+H0027372,nino_malformed,NINO fails structure: bad_format,blocking
+H0027408,address_incomplete,missing address_line_1,advisory
+H0027418,address_incomplete,missing address_line_1,advisory
+H0027426,nino_missing,NINO absent,blocking
+H0027449,nino_malformed,NINO fails structure: bad_format,blocking
+H0027453,address_incomplete,missing postcode,advisory
+H0027467,nino_malformed,NINO fails structure: bad_format,blocking
+H0027487,nino_missing,NINO absent,blocking
+H0027524,address_incomplete,missing postcode,advisory
+H0027538,nino_missing,NINO absent,blocking
+H0027548,address_incomplete,missing postcode,advisory
+H0027558,address_incomplete,missing postcode,advisory
+H0027567,nino_missing,NINO absent,blocking
+H0027574,address_incomplete,missing address_line_1,advisory
+H0027575,nino_missing,NINO absent,blocking
+H0027576,address_incomplete,missing address_line_1,advisory
+H0027600,dob_missing,date_of_birth='',advisory
+H0027607,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0027610,address_incomplete,missing postcode,advisory
+H0027639,nino_malformed,NINO fails structure: bad_format,blocking
+H0027655,address_incomplete,missing postcode,advisory
+H0027667,dob_missing,date_of_birth='',advisory
+H0027681,nino_missing,NINO absent,blocking
+H0027687,address_incomplete,missing postcode,advisory
+H0027716,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0027729,nino_missing,NINO absent,blocking
+H0027738,address_incomplete,missing postcode,advisory
+H0027745,nino_missing,NINO absent,blocking
+H0027753,nino_missing,NINO absent,blocking
+H0027824,address_incomplete,missing address_line_1,advisory
+H0027839,nino_missing,NINO absent,blocking
+H0027861,nino_missing,NINO absent,blocking
+H0027893,address_incomplete,missing address_line_1,advisory
+H0027900,dob_missing,date_of_birth='',advisory
+H0027901,dob_missing,date_of_birth='',advisory
+H0027910,address_incomplete,missing postcode,advisory
+H0027912,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0027916,address_incomplete,missing address_line_1,advisory
+H0027930,nino_malformed,NINO fails structure: bad_format,blocking
+H0027935,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0027943,nino_missing,NINO absent,blocking
+H0027946,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0027948,nino_missing,NINO absent,blocking
+H0027952,nino_missing,NINO absent,blocking
+H0027972,nino_missing,NINO absent,blocking
+H0027993,nino_missing,NINO absent,blocking
+H0028028,dob_missing,date_of_birth='',advisory
+H0028033,nino_missing,NINO absent,blocking
+H0028034,nino_missing,NINO absent,blocking
+H0028039,address_incomplete,missing postcode,advisory
+H0028052,dob_missing,date_of_birth='',advisory
+H0028057,nino_missing,NINO absent,blocking
+H0028074,nino_malformed,NINO fails structure: bad_format,blocking
+H0028082,dob_missing,date_of_birth='',advisory
+H0028091,nino_missing,NINO absent,blocking
+H0028102,nino_malformed,NINO fails structure: bad_format,blocking
+H0028127,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0028176,address_incomplete,missing address_line_1,advisory
+H0028178,nino_missing,NINO absent,blocking
+H0028179,dob_missing,date_of_birth='',advisory
+H0028181,nino_missing,NINO absent,blocking
+H0028186,nino_missing,NINO absent,blocking
+H0028189,nino_missing,NINO absent,blocking
+H0028191,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0028209,address_incomplete,missing address_line_1,advisory
+H0028214,dob_missing,date_of_birth='',advisory
+H0028253,nino_missing,NINO absent,blocking
+H0028272,address_incomplete,missing address_line_1,advisory
+H0028279,nino_missing,NINO absent,blocking
+H0028301,address_incomplete,missing address_line_1,advisory
+H0028305,nino_missing,NINO absent,blocking
+H0028311,nino_missing,NINO absent,blocking
+H0028328,nino_missing,NINO absent,blocking
+H0028343,address_incomplete,missing postcode,advisory
+H0028347,nino_malformed,NINO fails structure: bad_format,blocking
+H0028354,address_incomplete,missing postcode,advisory
+H0028363,nino_missing,NINO absent,blocking
+H0028379,dob_missing,date_of_birth='',advisory
+H0028387,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0028390,address_incomplete,missing address_line_1,advisory
+H0028391,nino_malformed,NINO fails structure: bad_format,blocking
+H0028397,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0028408,dob_missing,date_of_birth='',advisory
+H0028416,nino_missing,NINO absent,blocking
+H0028418,address_incomplete,missing postcode,advisory
+H0028441,address_incomplete,missing address_line_1,advisory
+H0028452,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0028473,address_incomplete,missing postcode,advisory
+H0028484,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0028500,nino_missing,NINO absent,blocking
+H0028524,dob_missing,date_of_birth='',advisory
+H0028533,nino_missing,NINO absent,blocking
+H0028538,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0028555,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0028568,dob_missing,date_of_birth='',advisory
+H0028571,dob_missing,date_of_birth='',advisory
+H0028599,dob_missing,date_of_birth='',advisory
+H0028612,address_incomplete,missing postcode,advisory
+H0028615,address_incomplete,missing address_line_1,advisory
+H0028636,dob_missing,date_of_birth='',advisory
+H0028639,nino_missing,NINO absent,blocking
+H0028644,nino_missing,NINO absent,blocking
+H0028666,address_incomplete,missing postcode,advisory
+H0028669,address_incomplete,missing postcode,advisory
+H0028676,nino_missing,NINO absent,blocking
+H0028677,address_incomplete,missing postcode,advisory
+H0028681,address_incomplete,missing address_line_1,advisory
+H0028684,nino_missing,NINO absent,blocking
+H0028686,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0028722,nino_malformed,NINO fails structure: bad_format,blocking
+H0028729,nino_missing,NINO absent,blocking
+H0028750,nino_missing,NINO absent,blocking
+H0028750,address_incomplete,missing postcode,advisory
+H0028764,nino_missing,NINO absent,blocking
+H0028776,nino_missing,NINO absent,blocking
+H0028790,dob_missing,date_of_birth='',advisory
+H0028791,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0028801,address_incomplete,missing address_line_1,advisory
+H0028815,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0028821,nino_missing,NINO absent,blocking
+H0028849,dob_missing,date_of_birth='',advisory
+H0028869,address_incomplete,missing postcode,advisory
+H0028871,nino_missing,NINO absent,blocking
+H0028909,address_incomplete,missing address_line_1,advisory
+H0028910,nino_missing,NINO absent,blocking
+H0028916,nino_missing,NINO absent,blocking
+H0028922,address_incomplete,missing address_line_1,advisory
+H0028938,address_incomplete,missing address_line_1,advisory
+H0028945,nino_missing,NINO absent,blocking
+H0028952,nino_missing,NINO absent,blocking
+H0028963,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0028980,dob_missing,date_of_birth='',advisory
+H0028984,address_incomplete,missing address_line_1,advisory
+H0029000,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0029020,nino_missing,NINO absent,blocking
+H0029032,nino_missing,NINO absent,blocking
+H0029039,dob_missing,date_of_birth='',advisory
+H0029063,nino_missing,NINO absent,blocking
+H0029107,nino_missing,NINO absent,blocking
+H0029129,nino_malformed,NINO fails structure: bad_format,blocking
+H0029186,address_incomplete,missing postcode,advisory
+H0029201,address_incomplete,missing postcode,advisory
+H0029211,nino_missing,NINO absent,blocking
+H0029220,nino_missing,NINO absent,blocking
+H0029228,address_incomplete,missing postcode,advisory
+H0029258,nino_missing,NINO absent,blocking
+H0029272,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0029280,nino_missing,NINO absent,blocking
+H0029290,dob_missing,date_of_birth='',advisory
+H0029296,dob_missing,date_of_birth='',advisory
+H0029301,nino_missing,NINO absent,blocking
+H0029309,nino_malformed,NINO fails structure: bad_format,blocking
+H0029336,nino_missing,NINO absent,blocking
+H0029376,nino_missing,NINO absent,blocking
+H0029383,nino_missing,NINO absent,blocking
+H0029392,address_incomplete,missing address_line_1,advisory
+H0029420,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0029429,nino_malformed,NINO fails structure: bad_format,blocking
+H0029446,nino_malformed,NINO fails structure: bad_format,blocking
+H0029448,address_incomplete,missing postcode,advisory
+H0029455,nino_missing,NINO absent,blocking
+H0029458,nino_missing,NINO absent,blocking
+H0029470,address_incomplete,missing address_line_1,advisory
+H0029479,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0029487,dob_missing,date_of_birth='',advisory
+H0029492,nino_missing,NINO absent,blocking
+H0029502,dob_missing,date_of_birth='',advisory
+H0029509,nino_missing,NINO absent,blocking
+H0029509,dob_missing,date_of_birth='',advisory
+H0029511,nino_missing,NINO absent,blocking
+H0029511,address_incomplete,missing address_line_1,advisory
+H0029514,nino_missing,NINO absent,blocking
+H0029523,address_incomplete,missing address_line_1,advisory
+H0029525,address_incomplete,missing address_line_1,advisory
+H0029526,nino_missing,NINO absent,blocking
+H0029530,nino_missing,NINO absent,blocking
+H0029532,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0029544,nino_missing,NINO absent,blocking
+H0029550,nino_malformed,NINO fails structure: bad_format,blocking
+H0029552,nino_missing,NINO absent,blocking
+H0029563,address_incomplete,missing postcode,advisory
+H0029576,address_incomplete,missing address_line_1,advisory
+H0029631,dob_missing,date_of_birth='',advisory
+H0029631,address_incomplete,missing postcode,advisory
+H0029656,nino_malformed,NINO fails structure: bad_format,blocking
+H0029667,nino_malformed,NINO fails structure: bad_format,blocking
+H0029668,nino_missing,NINO absent,blocking
+H0029673,address_incomplete,missing address_line_1,advisory
+H0029686,address_incomplete,missing address_line_1,advisory
+H0029690,address_incomplete,missing address_line_1,advisory
+H0029691,nino_malformed,NINO fails structure: bad_format,blocking
+H0029704,nino_malformed,NINO fails structure: bad_format,blocking
+H0029734,dob_missing,date_of_birth='',advisory
+H0029738,dob_missing,date_of_birth='',advisory
+H0029741,dob_missing,date_of_birth='',advisory
+H0029752,nino_malformed,NINO fails structure: bad_format,blocking
+H0029756,nino_missing,NINO absent,blocking
+H0029761,address_incomplete,missing postcode,advisory
+H0029762,dob_missing,date_of_birth='',advisory
+H0029781,nino_missing,NINO absent,blocking
+H0029834,nino_missing,NINO absent,blocking
+H0029838,address_incomplete,missing address_line_1,advisory
+H0029845,address_incomplete,missing postcode,advisory
+H0029849,address_incomplete,missing address_line_1,advisory
+H0029855,dob_missing,date_of_birth='',advisory
+H0029858,nino_malformed,NINO fails structure: bad_format,blocking
+H0029880,address_incomplete,missing address_line_1,advisory
+H0029886,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0029903,dob_missing,date_of_birth='',advisory
+H0029910,nino_malformed,NINO fails structure: bad_format,blocking
+H0029911,nino_missing,NINO absent,blocking
+H0030001,nino_missing,NINO absent,blocking
+H0030002,nino_missing,NINO absent,blocking
+H0030003,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0030006,nino_missing,NINO absent,blocking
+H0030007,nino_missing,NINO absent,blocking
+H0030022,nino_missing,NINO absent,blocking
+H0030040,dob_missing,date_of_birth='',advisory
+H0030045,nino_malformed,NINO fails structure: bad_format,blocking
+H0030064,nino_missing,NINO absent,blocking
+H0030084,dob_missing,date_of_birth='',advisory
+H0030086,nino_missing,NINO absent,blocking
+H0030088,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0030094,address_incomplete,missing postcode,advisory
+H0030104,nino_missing,NINO absent,blocking
+H0030117,dob_missing,date_of_birth='',advisory
+H0030147,address_incomplete,missing postcode,advisory
+H0030150,nino_malformed,NINO fails structure: bad_format,blocking
+H0030162,nino_missing,NINO absent,blocking
+H0030163,address_incomplete,missing address_line_1,advisory
+H0030200,nino_missing,NINO absent,blocking
+H0030213,nino_missing,NINO absent,blocking
+H0030241,nino_missing,NINO absent,blocking
+H0030250,address_incomplete,missing address_line_1,advisory
+H0030281,address_incomplete,missing address_line_1,advisory
+H0030285,dob_missing,date_of_birth='',advisory
+H0030285,address_incomplete,missing postcode,advisory
+H0030312,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0030319,nino_missing,NINO absent,blocking
+H0030334,nino_missing,NINO absent,blocking
+H0030338,nino_missing,NINO absent,blocking
+H0030389,nino_missing,NINO absent,blocking
+H0030396,nino_missing,NINO absent,blocking
+H0030431,nino_missing,NINO absent,blocking
+H0030437,address_incomplete,missing postcode,advisory
+H0030447,nino_missing,NINO absent,blocking
+H0030449,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0030452,address_incomplete,missing postcode,advisory
+H0030454,address_incomplete,missing address_line_1,advisory
+H0030456,nino_missing,NINO absent,blocking
+H0030464,address_incomplete,missing address_line_1,advisory
+H0030466,dob_missing,date_of_birth='',advisory
+H0030470,nino_missing,NINO absent,blocking
+H0030518,address_incomplete,missing address_line_1,advisory
+H0030527,nino_missing,NINO absent,blocking
+H0030534,nino_missing,NINO absent,blocking
+H0030545,nino_missing,NINO absent,blocking
+H0030558,nino_missing,NINO absent,blocking
+H0030562,address_incomplete,missing postcode,advisory
+H0030570,dob_missing,date_of_birth='',advisory
+H0030593,dob_missing,date_of_birth='',advisory
+H0030599,nino_missing,NINO absent,blocking
+H0030606,address_incomplete,missing address_line_1,advisory
+H0030660,dob_missing,date_of_birth='',advisory
+H0030661,dob_missing,date_of_birth='',advisory
+H0030667,nino_missing,NINO absent,blocking
+H0030700,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0030702,nino_missing,NINO absent,blocking
+H0030716,nino_missing,NINO absent,blocking
+H0030749,nino_missing,NINO absent,blocking
+H0030752,nino_missing,NINO absent,blocking
+H0030755,nino_malformed,NINO fails structure: bad_format,blocking
+H0030768,dob_missing,date_of_birth='',advisory
+H0030777,address_incomplete,missing address_line_1,advisory
+H0030795,dob_missing,date_of_birth='',advisory
+H0030796,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0030810,nino_missing,NINO absent,blocking
+H0030842,nino_missing,NINO absent,blocking
+H0030847,dob_missing,date_of_birth='',advisory
+H0030848,address_incomplete,missing address_line_1,advisory
+H0030850,dob_missing,date_of_birth='',advisory
+H0030854,nino_missing,NINO absent,blocking
+H0030859,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0030870,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0030906,nino_missing,NINO absent,blocking
+H0030907,dob_missing,date_of_birth='',advisory
+H0030920,dob_missing,date_of_birth='',advisory
+H0030925,nino_missing,NINO absent,blocking
+H0030953,nino_missing,NINO absent,blocking
+H0030956,nino_malformed,NINO fails structure: bad_format,blocking
+H0030966,address_incomplete,missing address_line_1,advisory
+H0030986,nino_missing,NINO absent,blocking
+H0030987,address_incomplete,missing postcode,advisory
+H0030999,dob_missing,date_of_birth='',advisory
+H0031027,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0031041,dob_missing,date_of_birth='',advisory
+H0031049,nino_malformed,NINO fails structure: bad_format,blocking
+H0031049,dob_missing,date_of_birth='',advisory
+H0031063,address_incomplete,missing address_line_1,advisory
+H0031074,nino_missing,NINO absent,blocking
+H0031089,nino_missing,NINO absent,blocking
+H0031093,nino_missing,NINO absent,blocking
+H0031105,address_incomplete,missing address_line_1,advisory
+H0031120,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0031125,address_incomplete,missing postcode,advisory
+H0031127,nino_missing,NINO absent,blocking
+H0031140,nino_missing,NINO absent,blocking
+H0031143,nino_missing,NINO absent,blocking
+H0031148,address_incomplete,missing address_line_1,advisory
+H0031149,nino_missing,NINO absent,blocking
+H0031151,nino_missing,NINO absent,blocking
+H0031171,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0031174,nino_missing,NINO absent,blocking
+H0031217,nino_malformed,NINO fails structure: bad_format,blocking
+H0031220,nino_missing,NINO absent,blocking
+H0031225,nino_missing,NINO absent,blocking
+H0031262,nino_missing,NINO absent,blocking
+H0031264,address_incomplete,missing address_line_1,advisory
+H0031266,nino_missing,NINO absent,blocking
+H0031276,nino_missing,NINO absent,blocking
+H0031279,address_incomplete,missing postcode,advisory
+H0031292,nino_malformed,NINO fails structure: bad_format,blocking
+H0031292,address_incomplete,missing address_line_1,advisory
+H0031294,address_incomplete,missing address_line_1,advisory
+H0031313,address_incomplete,missing postcode,advisory
+H0031314,nino_missing,NINO absent,blocking
+H0031322,nino_missing,NINO absent,blocking
+H0031342,nino_missing,NINO absent,blocking
+H0031351,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0031354,nino_missing,NINO absent,blocking
+H0031368,address_incomplete,missing postcode,advisory
+H0031369,dob_missing,date_of_birth='',advisory
+H0031374,nino_missing,NINO absent,blocking
+H0031392,address_incomplete,missing address_line_1,advisory
+H0031397,nino_missing,NINO absent,blocking
+H0031425,nino_missing,NINO absent,blocking
+H0031450,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0031456,nino_missing,NINO absent,blocking
+H0031468,nino_missing,NINO absent,blocking
+H0031496,nino_missing,NINO absent,blocking
+H0031511,dob_missing,date_of_birth='',advisory
+H0031527,dob_missing,date_of_birth='',advisory
+H0031538,dob_missing,date_of_birth='',advisory
+H0031558,nino_missing,NINO absent,blocking
+H0031560,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0031568,address_incomplete,missing postcode,advisory
+H0031607,address_incomplete,missing postcode,advisory
+H0031623,nino_malformed,NINO fails structure: bad_format,blocking
+H0031651,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0031668,dob_missing,date_of_birth='',advisory
+H0031670,nino_missing,NINO absent,blocking
+H0031678,nino_missing,NINO absent,blocking
+H0031720,nino_malformed,NINO fails structure: bad_format,blocking
+H0031724,nino_missing,NINO absent,blocking
+H0031726,nino_missing,NINO absent,blocking
+H0031729,dob_missing,date_of_birth='',advisory
+H0031730,address_incomplete,missing postcode,advisory
+H0031750,dob_missing,date_of_birth='',advisory
+H0031769,nino_missing,NINO absent,blocking
+H0031772,nino_missing,NINO absent,blocking
+H0031783,nino_missing,NINO absent,blocking
+H0031793,address_incomplete,missing address_line_1,advisory
+H0031799,address_incomplete,missing postcode,advisory
+H0031831,nino_missing,NINO absent,blocking
+H0031833,nino_malformed,NINO fails structure: bad_format,blocking
+H0031842,address_incomplete,missing postcode,advisory
+H0031861,nino_missing,NINO absent,blocking
+H0031863,dob_missing,date_of_birth='',advisory
+H0031867,nino_missing,NINO absent,blocking
+H0031869,nino_missing,NINO absent,blocking
+H0031883,dob_missing,date_of_birth='',advisory
+H0031895,nino_missing,NINO absent,blocking
+H0031901,address_incomplete,missing address_line_1,advisory
+H0031917,nino_missing,NINO absent,blocking
+H0031935,nino_missing,NINO absent,blocking
+H0031982,dob_missing,date_of_birth='',advisory
+H0031986,dob_missing,date_of_birth='',advisory
+H0031998,nino_missing,NINO absent,blocking
+H0032014,nino_missing,NINO absent,blocking
+H0032024,address_incomplete,missing address_line_1,advisory
+H0032068,dob_missing,date_of_birth='',advisory
+H0032084,nino_missing,NINO absent,blocking
+H0032085,dob_missing,date_of_birth='',advisory
+H0032092,address_incomplete,missing postcode,advisory
+H0032096,nino_missing,NINO absent,blocking
+H0032101,nino_malformed,NINO fails structure: bad_format,blocking
+H0032110,nino_missing,NINO absent,blocking
+H0032114,nino_malformed,NINO fails structure: bad_format,blocking
+H0032119,nino_missing,NINO absent,blocking
+H0032170,nino_missing,NINO absent,blocking
+H0032172,nino_malformed,NINO fails structure: bad_format,blocking
+H0032181,address_incomplete,missing address_line_1,advisory
+H0032195,nino_missing,NINO absent,blocking
+H0032204,address_incomplete,missing postcode,advisory
+H0032205,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0032215,nino_missing,NINO absent,blocking
+H0032230,address_incomplete,missing address_line_1,advisory
+H0032268,nino_missing,NINO absent,blocking
+H0032306,address_incomplete,missing postcode,advisory
+H0032313,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0032319,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0032338,address_incomplete,missing address_line_1,advisory
+H0032339,nino_missing,NINO absent,blocking
+H0032339,address_incomplete,missing address_line_1,advisory
+H0032358,address_incomplete,missing address_line_1,advisory
+H0032364,address_incomplete,missing postcode,advisory
+H0032383,nino_malformed,NINO fails structure: bad_format,blocking
+H0032397,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0032427,dob_missing,date_of_birth='',advisory
+H0032434,nino_missing,NINO absent,blocking
+H0032443,address_incomplete,missing address_line_1,advisory
+H0032464,address_incomplete,missing postcode,advisory
+H0032465,nino_missing,NINO absent,blocking
+H0032472,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0032496,nino_missing,NINO absent,blocking
+H0032498,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0032510,nino_malformed,NINO fails structure: bad_format,blocking
+H0032543,address_incomplete,missing address_line_1,advisory
+H0032550,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0032592,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0032597,nino_missing,NINO absent,blocking
+H0032616,nino_missing,NINO absent,blocking
+H0032654,nino_missing,NINO absent,blocking
+H0032665,address_incomplete,missing address_line_1,advisory
+H0032670,address_incomplete,missing postcode,advisory
+H0032673,address_incomplete,missing postcode,advisory
+H0032681,address_incomplete,missing address_line_1,advisory
+H0032690,address_incomplete,missing postcode,advisory
+H0032708,address_incomplete,missing address_line_1,advisory
+H0032733,nino_missing,NINO absent,blocking
+H0032750,address_incomplete,missing postcode,advisory
+H0032761,nino_missing,NINO absent,blocking
+H0032763,nino_missing,NINO absent,blocking
+H0032778,address_incomplete,missing postcode,advisory
+H0032780,nino_missing,NINO absent,blocking
+H0032795,address_incomplete,missing address_line_1,advisory
+H0032809,nino_missing,NINO absent,blocking
+H0032811,dob_missing,date_of_birth='',advisory
+H0032821,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0032829,nino_missing,NINO absent,blocking
+H0032829,address_incomplete,missing postcode,advisory
+H0032830,nino_missing,NINO absent,blocking
+H0032868,dob_missing,date_of_birth='',advisory
+H0032878,address_incomplete,missing address_line_1,advisory
+H0032882,address_incomplete,missing address_line_1,advisory
+H0032884,nino_missing,NINO absent,blocking
+H0032898,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0032903,address_incomplete,missing address_line_1,advisory
+H0032906,address_incomplete,missing postcode,advisory
+H0032934,nino_malformed,NINO fails structure: bad_format,blocking
+H0032937,address_incomplete,missing postcode,advisory
+H0032946,dob_missing,date_of_birth='',advisory
+H0032951,address_incomplete,missing postcode,advisory
+H0032978,nino_missing,NINO absent,blocking
+H0032993,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0032998,nino_missing,NINO absent,blocking
+H0033019,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0033024,dob_missing,date_of_birth='',advisory
+H0033034,nino_missing,NINO absent,blocking
+H0033052,address_incomplete,missing address_line_1,advisory
+H0033054,dob_missing,date_of_birth='',advisory
+H0033066,nino_missing,NINO absent,blocking
+H0033071,nino_missing,NINO absent,blocking
+H0033074,nino_malformed,NINO fails structure: bad_format,blocking
+H0033077,nino_missing,NINO absent,blocking
+H0033102,address_incomplete,missing postcode,advisory
+H0033105,nino_missing,NINO absent,blocking
+H0033108,nino_missing,NINO absent,blocking
+H0033109,address_incomplete,missing postcode,advisory
+H0033112,nino_missing,NINO absent,blocking
+H0033137,address_incomplete,missing postcode,advisory
+H0033156,nino_missing,NINO absent,blocking
+H0033183,nino_missing,NINO absent,blocking
+H0033210,nino_malformed,NINO fails structure: bad_format,blocking
+H0033212,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0033241,address_incomplete,missing address_line_1,advisory
+H0033252,dob_missing,date_of_birth='',advisory
+H0033259,address_incomplete,missing address_line_1,advisory
+H0033260,dob_missing,date_of_birth='',advisory
+H0033269,nino_missing,NINO absent,blocking
+H0033272,nino_missing,NINO absent,blocking
+H0033288,nino_missing,NINO absent,blocking
+H0033314,nino_missing,NINO absent,blocking
+H0033318,nino_missing,NINO absent,blocking
+H0033326,address_incomplete,missing address_line_1,advisory
+H0033339,address_incomplete,missing address_line_1,advisory
+H0033341,nino_missing,NINO absent,blocking
+H0033346,nino_malformed,NINO fails structure: bad_format,blocking
+H0033350,address_incomplete,missing postcode,advisory
+H0033356,nino_missing,NINO absent,blocking
+H0033357,address_incomplete,missing postcode,advisory
+H0033360,address_incomplete,missing address_line_1,advisory
+H0033373,nino_missing,NINO absent,blocking
+H0033392,nino_missing,NINO absent,blocking
+H0033405,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0033412,dob_missing,date_of_birth='',advisory
+H0033422,address_incomplete,missing address_line_1,advisory
+H0033424,dob_missing,date_of_birth='',advisory
+H0033425,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0033439,nino_missing,NINO absent,blocking
+H0033457,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0033458,dob_missing,date_of_birth='',advisory
+H0033469,nino_malformed,NINO fails structure: bad_format,blocking
+H0033475,address_incomplete,missing postcode,advisory
+H0033484,dob_missing,date_of_birth='',advisory
+H0033506,nino_missing,NINO absent,blocking
+H0033522,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0033526,dob_missing,date_of_birth='',advisory
+H0033540,nino_missing,NINO absent,blocking
+H0033577,dob_missing,date_of_birth='',advisory
+H0033625,nino_malformed,NINO fails structure: bad_format,blocking
+H0033638,address_incomplete,missing address_line_1,advisory
+H0033660,nino_missing,NINO absent,blocking
+H0033664,nino_missing,NINO absent,blocking
+H0033681,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0033686,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0033690,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0033696,address_incomplete,missing postcode,advisory
+H0033697,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0033701,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0033706,nino_missing,NINO absent,blocking
+H0033709,nino_missing,NINO absent,blocking
+H0033710,address_incomplete,missing postcode,advisory
+H0033720,address_incomplete,missing postcode,advisory
+H0033722,dob_missing,date_of_birth='',advisory
+H0033744,address_incomplete,missing address_line_1,advisory
+H0033771,address_incomplete,missing postcode,advisory
+H0033784,nino_missing,NINO absent,blocking
+H0033784,dob_missing,date_of_birth='',advisory
+H0033785,dob_missing,date_of_birth='',advisory
+H0033788,address_incomplete,missing address_line_1,advisory
+H0033801,dob_missing,date_of_birth='',advisory
+H0033805,nino_missing,NINO absent,blocking
+H0033816,nino_missing,NINO absent,blocking
+H0033822,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0033822,address_incomplete,missing postcode,advisory
+H0033828,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0033833,nino_missing,NINO absent,blocking
+H0033844,nino_missing,NINO absent,blocking
+H0033849,nino_missing,NINO absent,blocking
+H0033850,address_incomplete,missing address_line_1,advisory
+H0033871,nino_missing,NINO absent,blocking
+H0033878,dob_missing,date_of_birth='',advisory
+H0033881,dob_missing,date_of_birth='',advisory
+H0033885,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0033887,nino_missing,NINO absent,blocking
+H0033896,address_incomplete,missing postcode,advisory
+H0033901,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0033938,address_incomplete,missing postcode,advisory
+H0033942,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0033948,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0033951,address_incomplete,missing postcode,advisory
+H0033958,nino_missing,NINO absent,blocking
+H0033967,nino_missing,NINO absent,blocking
+H0033980,address_incomplete,missing address_line_1,advisory
+H0033987,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0033990,address_incomplete,missing postcode,advisory
+H0034013,nino_malformed,NINO fails structure: bad_format,blocking
+H0034035,nino_missing,NINO absent,blocking
+H0034061,nino_missing,NINO absent,blocking
+H0034063,dob_missing,date_of_birth='',advisory
+H0034065,address_incomplete,missing address_line_1,advisory
+H0034066,dob_missing,date_of_birth='',advisory
+H0034070,nino_missing,NINO absent,blocking
+H0034074,nino_missing,NINO absent,blocking
+H0034093,nino_malformed,NINO fails structure: bad_format,blocking
+H0034095,dob_missing,date_of_birth='',advisory
+H0034098,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0034104,nino_missing,NINO absent,blocking
+H0034106,address_incomplete,missing postcode,advisory
+H0034127,nino_missing,NINO absent,blocking
+H0034127,address_incomplete,missing postcode,advisory
+H0034144,nino_missing,NINO absent,blocking
+H0034168,address_incomplete,missing postcode,advisory
+H0034170,address_incomplete,missing address_line_1,advisory
+H0034177,address_incomplete,missing address_line_1,advisory
+H0034200,nino_missing,NINO absent,blocking
+H0034209,nino_malformed,NINO fails structure: bad_format,blocking
+H0034213,nino_missing,NINO absent,blocking
+H0034216,nino_missing,NINO absent,blocking
+H0034221,nino_missing,NINO absent,blocking
+H0034222,dob_missing,date_of_birth='',advisory
+H0034238,nino_missing,NINO absent,blocking
+H0034241,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0034257,nino_missing,NINO absent,blocking
+H0034259,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0034273,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0034281,nino_missing,NINO absent,blocking
+H0034294,nino_missing,NINO absent,blocking
+H0034310,address_incomplete,missing address_line_1,advisory
+H0034313,nino_missing,NINO absent,blocking
+H0034323,nino_missing,NINO absent,blocking
+H0034329,dob_missing,date_of_birth='',advisory
+H0034334,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0034335,nino_missing,NINO absent,blocking
+H0034349,nino_missing,NINO absent,blocking
+H0034354,nino_missing,NINO absent,blocking
+H0034363,nino_missing,NINO absent,blocking
+H0034364,nino_missing,NINO absent,blocking
+H0034369,address_incomplete,missing address_line_1,advisory
+H0034376,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0034378,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0034380,dob_missing,date_of_birth='',advisory
+H0034393,address_incomplete,missing address_line_1,advisory
+H0034395,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0034408,address_incomplete,missing postcode,advisory
+H0034416,address_incomplete,missing postcode,advisory
+H0034439,address_incomplete,missing postcode,advisory
+H0034443,nino_missing,NINO absent,blocking
+H0034448,nino_missing,NINO absent,blocking
+H0034454,address_incomplete,missing postcode,advisory
+H0034470,address_incomplete,missing address_line_1,advisory
+H0034500,address_incomplete,missing address_line_1,advisory
+H0034503,nino_missing,NINO absent,blocking
+H0034513,nino_malformed,NINO fails structure: bad_format,blocking
+H0034553,nino_missing,NINO absent,blocking
+H0034558,nino_missing,NINO absent,blocking
+H0034591,nino_malformed,NINO fails structure: bad_format,blocking
+H0034637,address_incomplete,missing address_line_1,advisory
+H0034647,nino_missing,NINO absent,blocking
+H0034662,nino_malformed,NINO fails structure: bad_format,blocking
+H0034671,nino_missing,NINO absent,blocking
+H0034694,nino_missing,NINO absent,blocking
+H0034702,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0034703,dob_missing,date_of_birth='',advisory
+H0034708,address_incomplete,missing address_line_1,advisory
+H0034712,nino_missing,NINO absent,blocking
+H0034718,dob_missing,date_of_birth='',advisory
+H0034720,nino_missing,NINO absent,blocking
+H0034724,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0034729,address_incomplete,missing postcode,advisory
+H0034746,nino_missing,NINO absent,blocking
+H0034779,address_incomplete,missing address_line_1,advisory
+H0034810,address_incomplete,missing address_line_1,advisory
+H0034813,dob_missing,date_of_birth='',advisory
+H0034818,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0034820,nino_malformed,NINO fails structure: bad_format,blocking
+H0034829,nino_missing,NINO absent,blocking
+H0034835,nino_missing,NINO absent,blocking
+H0034838,nino_missing,NINO absent,blocking
+H0034850,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0034860,nino_missing,NINO absent,blocking
+H0034863,nino_missing,NINO absent,blocking
+H0034874,address_incomplete,missing address_line_1,advisory
+H0034882,nino_malformed,NINO fails structure: bad_format,blocking
+H0034890,nino_malformed,NINO fails structure: bad_format,blocking
+H0034897,address_incomplete,missing postcode,advisory
+H0034905,address_incomplete,missing postcode,advisory
+H0034916,nino_missing,NINO absent,blocking
+H0034923,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0034957,address_incomplete,missing postcode,advisory
+H0034972,nino_missing,NINO absent,blocking
+H0034974,nino_missing,NINO absent,blocking
+H0034986,address_incomplete,missing address_line_1,advisory
+H0034994,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0035002,nino_malformed,NINO fails structure: bad_format,blocking
+H0035034,dob_missing,date_of_birth='',advisory
+H0035037,nino_malformed,NINO fails structure: bad_format,blocking
+H0035081,address_incomplete,missing address_line_1,advisory
+H0035092,nino_missing,NINO absent,blocking
+H0035094,address_incomplete,missing postcode,advisory
+H0035125,address_incomplete,missing address_line_1,advisory
+H0035138,address_incomplete,missing postcode,advisory
+H0035148,address_incomplete,missing address_line_1,advisory
+H0035153,nino_missing,NINO absent,blocking
+H0035165,nino_missing,NINO absent,blocking
+H0035196,nino_missing,NINO absent,blocking
+H0035218,address_incomplete,missing address_line_1,advisory
+H0035219,address_incomplete,missing address_line_1,advisory
+H0035232,nino_missing,NINO absent,blocking
+H0035245,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0035266,address_incomplete,missing postcode,advisory
+H0035276,nino_malformed,NINO fails structure: bad_format,blocking
+H0035283,address_incomplete,missing address_line_1,advisory
+H0035291,address_incomplete,missing address_line_1,advisory
+H0035298,dob_missing,date_of_birth='',advisory
+H0035309,nino_malformed,NINO fails structure: bad_format,blocking
+H0035355,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0035365,address_incomplete,missing postcode,advisory
+H0035369,nino_missing,NINO absent,blocking
+H0035388,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0035390,dob_missing,date_of_birth='',advisory
+H0035394,address_incomplete,missing address_line_1,advisory
+H0035397,nino_missing,NINO absent,blocking
+H0035410,nino_missing,NINO absent,blocking
+H0035414,nino_missing,NINO absent,blocking
+H0035419,nino_missing,NINO absent,blocking
+H0035420,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0035422,dob_missing,date_of_birth='',advisory
+H0035446,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0035450,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0035461,address_incomplete,missing postcode,advisory
+H0035468,nino_malformed,NINO fails structure: bad_format,blocking
+H0035470,address_incomplete,missing postcode,advisory
+H0035475,nino_missing,NINO absent,blocking
+H0035496,address_incomplete,missing postcode,advisory
+H0035497,address_incomplete,missing address_line_1,advisory
+H0035517,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0035518,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0035528,address_incomplete,missing address_line_1,advisory
+H0035530,nino_missing,NINO absent,blocking
+H0035532,nino_missing,NINO absent,blocking
+H0035535,nino_malformed,NINO fails structure: bad_format,blocking
+H0035537,nino_missing,NINO absent,blocking
+H0035544,dob_missing,date_of_birth='',advisory
+H0035551,nino_missing,NINO absent,blocking
+H0035560,address_incomplete,missing address_line_1,advisory
+H0035564,address_incomplete,missing postcode,advisory
+H0035569,address_incomplete,missing address_line_1,advisory
+H0035571,nino_malformed,NINO fails structure: bad_format,blocking
+H0035571,dob_missing,date_of_birth='',advisory
+H0035611,dob_missing,date_of_birth='',advisory
+H0035623,address_incomplete,missing address_line_1,advisory
+H0035641,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0035649,address_incomplete,missing postcode,advisory
+H0035660,address_incomplete,missing postcode,advisory
+H0035665,nino_malformed,NINO fails structure: bad_format,blocking
+H0035667,address_incomplete,missing postcode,advisory
+H0035672,nino_missing,NINO absent,blocking
+H0035672,address_incomplete,missing postcode,advisory
+H0035674,nino_missing,NINO absent,blocking
+H0035687,nino_malformed,NINO fails structure: bad_format,blocking
+H0035692,nino_malformed,NINO fails structure: bad_format,blocking
+H0035696,dob_missing,date_of_birth='',advisory
+H0035699,nino_missing,NINO absent,blocking
+H0035708,nino_missing,NINO absent,blocking
+H0035718,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0035757,address_incomplete,missing postcode,advisory
+H0035758,nino_missing,NINO absent,blocking
+H0035816,dob_missing,date_of_birth='',advisory
+H0035817,nino_missing,NINO absent,blocking
+H0035823,nino_missing,NINO absent,blocking
+H0035839,address_incomplete,missing address_line_1,advisory
+H0035866,nino_malformed,NINO fails structure: bad_format,blocking
+H0035868,dob_missing,date_of_birth='',advisory
+H0035882,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0035890,nino_missing,NINO absent,blocking
+H0035922,nino_missing,NINO absent,blocking
+H0035947,nino_missing,NINO absent,blocking
+H0035957,nino_missing,NINO absent,blocking
+H0036006,nino_malformed,NINO fails structure: bad_format,blocking
+H0036013,address_incomplete,missing postcode,advisory
+H0036020,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0036025,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0036039,nino_missing,NINO absent,blocking
+H0036057,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0036071,nino_missing,NINO absent,blocking
+H0036079,address_incomplete,missing address_line_1,advisory
+H0036080,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0036083,nino_missing,NINO absent,blocking
+H0036107,nino_malformed,NINO fails structure: bad_format,blocking
+H0036122,address_incomplete,missing address_line_1,advisory
+H0036125,address_incomplete,missing address_line_1,advisory
+H0036127,address_incomplete,missing address_line_1,advisory
+H0036129,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0036154,nino_malformed,NINO fails structure: bad_format,blocking
+H0036156,address_incomplete,missing address_line_1,advisory
+H0036175,address_incomplete,missing postcode,advisory
+H0036182,address_incomplete,missing address_line_1,advisory
+H0036194,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0036195,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0036200,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0036204,address_incomplete,missing postcode,advisory
+H0036220,address_incomplete,missing postcode,advisory
+H0036224,nino_missing,NINO absent,blocking
+H0036224,address_incomplete,missing postcode,advisory
+H0036228,nino_missing,NINO absent,blocking
+H0036230,nino_missing,NINO absent,blocking
+H0036233,nino_malformed,NINO fails structure: bad_format,blocking
+H0036238,address_incomplete,missing address_line_1,advisory
+H0036244,nino_missing,NINO absent,blocking
+H0036261,nino_missing,NINO absent,blocking
+H0036265,address_incomplete,missing postcode,advisory
+H0036270,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0036296,address_incomplete,missing address_line_1,advisory
+H0036309,address_incomplete,missing postcode,advisory
+H0036317,nino_malformed,NINO fails structure: bad_format,blocking
+H0036339,address_incomplete,missing postcode,advisory
+H0036345,address_incomplete,missing postcode,advisory
+H0036363,address_incomplete,missing address_line_1,advisory
+H0036366,nino_missing,NINO absent,blocking
+H0036389,dob_missing,date_of_birth='',advisory
+H0036391,dob_missing,date_of_birth='',advisory
+H0036393,dob_missing,date_of_birth='',advisory
+H0036421,nino_missing,NINO absent,blocking
+H0036435,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0036480,nino_missing,NINO absent,blocking
+H0036495,address_incomplete,missing address_line_1,advisory
+H0036529,nino_missing,NINO absent,blocking
+H0036543,nino_malformed,NINO fails structure: bad_format,blocking
+H0036556,nino_missing,NINO absent,blocking
+H0036590,nino_missing,NINO absent,blocking
+H0036591,nino_missing,NINO absent,blocking
+H0036610,dob_missing,date_of_birth='',advisory
+H0036614,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0036634,address_incomplete,missing postcode,advisory
+H0036649,nino_malformed,NINO fails structure: bad_format,blocking
+H0036657,address_incomplete,missing address_line_1,advisory
+H0036721,address_incomplete,missing postcode,advisory
+H0036743,nino_missing,NINO absent,blocking
+H0036746,dob_missing,date_of_birth='',advisory
+H0036771,dob_missing,date_of_birth='',advisory
+H0036773,address_incomplete,missing postcode,advisory
+H0036793,nino_malformed,NINO fails structure: bad_format,blocking
+H0036795,nino_malformed,NINO fails structure: bad_format,blocking
+H0036797,nino_missing,NINO absent,blocking
+H0036816,address_incomplete,missing postcode,advisory
+H0036835,nino_malformed,NINO fails structure: bad_format,blocking
+H0036846,dob_missing,date_of_birth='',advisory
+H0036857,nino_missing,NINO absent,blocking
+H0036863,dob_missing,date_of_birth='',advisory
+H0036876,nino_missing,NINO absent,blocking
+H0036891,address_incomplete,missing postcode,advisory
+H0036892,nino_missing,NINO absent,blocking
+H0036898,nino_missing,NINO absent,blocking
+H0036912,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0036925,address_incomplete,missing address_line_1,advisory
+H0036928,nino_missing,NINO absent,blocking
+H0036940,address_incomplete,missing address_line_1,advisory
+H0036948,nino_missing,NINO absent,blocking
+H0036976,dob_missing,date_of_birth='',advisory
+H0036987,dob_missing,date_of_birth='',advisory
+H0037006,address_incomplete,missing address_line_1,advisory
+H0037008,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0037010,address_incomplete,missing address_line_1,advisory
+H0037018,nino_missing,NINO absent,blocking
+H0037027,address_incomplete,missing postcode,advisory
+H0037049,nino_missing,NINO absent,blocking
+H0037058,address_incomplete,missing postcode,advisory
+H0037084,address_incomplete,missing postcode,advisory
+H0037087,nino_missing,NINO absent,blocking
+H0037103,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0037109,nino_missing,NINO absent,blocking
+H0037113,address_incomplete,missing postcode,advisory
+H0037114,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0037160,address_incomplete,missing address_line_1,advisory
+H0037172,nino_missing,NINO absent,blocking
+H0037183,nino_missing,NINO absent,blocking
+H0037184,dob_missing,date_of_birth='',advisory
+H0037190,dob_missing,date_of_birth='',advisory
+H0037206,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0037227,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0037231,nino_missing,NINO absent,blocking
+H0037233,nino_malformed,NINO fails structure: bad_format,blocking
+H0037246,dob_missing,date_of_birth='',advisory
+H0037260,nino_missing,NINO absent,blocking
+H0037281,nino_missing,NINO absent,blocking
+H0037295,nino_missing,NINO absent,blocking
+H0037314,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0037321,address_incomplete,missing address_line_1,advisory
+H0037346,address_incomplete,missing postcode,advisory
+H0037357,nino_malformed,NINO fails structure: bad_format,blocking
+H0037376,nino_missing,NINO absent,blocking
+H0037387,nino_missing,NINO absent,blocking
+H0037392,address_incomplete,missing address_line_1,advisory
+H0037406,address_incomplete,missing postcode,advisory
+H0037413,nino_missing,NINO absent,blocking
+H0037418,nino_malformed,NINO fails structure: bad_format,blocking
+H0037427,nino_missing,NINO absent,blocking
+H0037436,nino_malformed,NINO fails structure: bad_format,blocking
+H0037443,address_incomplete,missing address_line_1,advisory
+H0037448,address_incomplete,missing address_line_1,advisory
+H0037506,nino_malformed,NINO fails structure: bad_format,blocking
+H0037513,nino_missing,NINO absent,blocking
+H0037517,nino_missing,NINO absent,blocking
+H0037518,address_incomplete,missing address_line_1,advisory
+H0037529,nino_missing,NINO absent,blocking
+H0037530,nino_missing,NINO absent,blocking
+H0037546,dob_missing,date_of_birth='',advisory
+H0037560,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0037570,nino_missing,NINO absent,blocking
+H0037573,dob_missing,date_of_birth='',advisory
+H0037574,nino_missing,NINO absent,blocking
+H0037589,nino_missing,NINO absent,blocking
+H0037599,dob_missing,date_of_birth='',advisory
+H0037623,address_incomplete,missing address_line_1,advisory
+H0037626,dob_missing,date_of_birth='',advisory
+H0037634,dob_missing,date_of_birth='',advisory
+H0037638,nino_missing,NINO absent,blocking
+H0037656,nino_missing,NINO absent,blocking
+H0037664,nino_missing,NINO absent,blocking
+H0037665,address_incomplete,missing address_line_1,advisory
+H0037676,nino_missing,NINO absent,blocking
+H0037706,nino_missing,NINO absent,blocking
+H0037736,nino_missing,NINO absent,blocking
+H0037765,dob_missing,date_of_birth='',advisory
+H0037780,nino_missing,NINO absent,blocking
+H0037786,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0037790,nino_malformed,NINO fails structure: bad_format,blocking
+H0037792,address_incomplete,missing postcode,advisory
+H0037800,nino_malformed,NINO fails structure: bad_format,blocking
+H0037829,nino_missing,NINO absent,blocking
+H0037830,nino_missing,NINO absent,blocking
+H0037861,nino_missing,NINO absent,blocking
+H0037861,dob_missing,date_of_birth='',advisory
+H0037868,address_incomplete,missing address_line_1,advisory
+H0037871,address_incomplete,missing postcode,advisory
+H0037875,nino_missing,NINO absent,blocking
+H0037907,nino_missing,NINO absent,blocking
+H0037908,nino_missing,NINO absent,blocking
+H0037923,nino_missing,NINO absent,blocking
+H0037941,nino_missing,NINO absent,blocking
+H0038018,nino_missing,NINO absent,blocking
+H0038023,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0038029,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0038050,address_incomplete,missing postcode,advisory
+H0038056,address_incomplete,missing postcode,advisory
+H0038072,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0038077,nino_missing,NINO absent,blocking
+H0038097,nino_missing,NINO absent,blocking
+H0038112,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0038116,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0038138,nino_missing,NINO absent,blocking
+H0038144,nino_missing,NINO absent,blocking
+H0038188,dob_missing,date_of_birth='',advisory
+H0038197,nino_missing,NINO absent,blocking
+H0038227,address_incomplete,missing address_line_1,advisory
+H0038231,nino_missing,NINO absent,blocking
+H0038243,nino_missing,NINO absent,blocking
+H0038273,address_incomplete,missing postcode,advisory
+H0038311,nino_malformed,NINO fails structure: bad_format,blocking
+H0038322,nino_missing,NINO absent,blocking
+H0038343,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0038356,nino_missing,NINO absent,blocking
+H0038363,nino_missing,NINO absent,blocking
+H0038380,nino_missing,NINO absent,blocking
+H0038400,nino_missing,NINO absent,blocking
+H0038410,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0038413,nino_missing,NINO absent,blocking
+H0038413,address_incomplete,missing address_line_1,advisory
+H0038419,nino_missing,NINO absent,blocking
+H0038428,address_incomplete,missing postcode,advisory
+H0038448,nino_missing,NINO absent,blocking
+H0038478,dob_missing,date_of_birth='',advisory
+H0038482,nino_missing,NINO absent,blocking
+H0038495,dob_missing,date_of_birth='',advisory
+H0038507,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0038513,address_incomplete,missing postcode,advisory
+H0038544,address_incomplete,missing address_line_1,advisory
+H0038547,nino_missing,NINO absent,blocking
+H0038557,nino_missing,NINO absent,blocking
+H0038569,dob_missing,date_of_birth='',advisory
+H0038572,nino_missing,NINO absent,blocking
+H0038586,address_incomplete,missing address_line_1,advisory
+H0038592,nino_missing,NINO absent,blocking
+H0038603,nino_malformed,NINO fails structure: bad_format,blocking
+H0038604,address_incomplete,missing postcode,advisory
+H0038624,nino_malformed,NINO fails structure: bad_format,blocking
+H0038630,address_incomplete,missing postcode,advisory
+H0038640,nino_malformed,NINO fails structure: bad_format,blocking
+H0038718,nino_missing,NINO absent,blocking
+H0038721,nino_missing,NINO absent,blocking
+H0038748,nino_malformed,NINO fails structure: bad_format,blocking
+H0038752,address_incomplete,missing address_line_1,advisory
+H0038776,nino_missing,NINO absent,blocking
+H0038792,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0038796,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0038797,nino_missing,NINO absent,blocking
+H0038800,address_incomplete,missing address_line_1,advisory
+H0038829,nino_missing,NINO absent,blocking
+H0038850,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0038850,dob_missing,date_of_birth='',advisory
+H0038886,address_incomplete,missing address_line_1,advisory
+H0038888,dob_missing,date_of_birth='',advisory
+H0038890,dob_missing,date_of_birth='',advisory
+H0038908,nino_missing,NINO absent,blocking
+H0038913,nino_missing,NINO absent,blocking
+H0038926,dob_missing,date_of_birth='',advisory
+H0038932,dob_missing,date_of_birth='',advisory
+H0038949,nino_malformed,NINO fails structure: bad_format,blocking
+H0038952,dob_missing,date_of_birth='',advisory
+H0038974,nino_missing,NINO absent,blocking
+H0038976,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0038984,nino_missing,NINO absent,blocking
+H0038984,address_incomplete,missing postcode,advisory
+H0038986,dob_missing,date_of_birth='',advisory
+H0038989,nino_malformed,NINO fails structure: bad_suffix,blocking
+H0038991,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0039008,nino_malformed,NINO fails structure: bad_format,blocking
+H0039016,nino_missing,NINO absent,blocking
+H0039017,nino_malformed,NINO fails structure: bad_format,blocking
+H0039030,dob_missing,date_of_birth='',advisory
+H0039030,address_incomplete,missing postcode,advisory
+H0039058,nino_missing,NINO absent,blocking
+H0039072,nino_missing,NINO absent,blocking
+H0039095,nino_malformed,NINO fails structure: bad_format,blocking
+H0039100,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0039108,address_incomplete,missing postcode,advisory
+H0039133,address_incomplete,missing postcode,advisory
+H0039153,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0039164,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0039166,address_incomplete,missing address_line_1,advisory
+H0039167,address_incomplete,missing address_line_1,advisory
+H0039189,nino_missing,NINO absent,blocking
+H0039202,dob_missing,date_of_birth='',advisory
+H0039249,nino_missing,NINO absent,blocking
+H0039252,address_incomplete,missing address_line_1,advisory
+H0039267,nino_malformed,NINO fails structure: disallowed_prefix,blocking
+H0039290,dob_missing,date_of_birth='',advisory
+H0039308,nino_missing,NINO absent,blocking
+H0039311,dob_missing,date_of_birth='',advisory
+H0039311,address_incomplete,missing postcode,advisory
+H0039312,nino_missing,NINO absent,blocking
+H0039313,nino_malformed,NINO fails structure: bad_format,blocking
+H0039339,nino_missing,NINO absent,blocking
+H0039366,nino_missing,NINO absent,blocking
+H0039399,nino_missing,NINO absent,blocking
+H0039425,nino_missing,NINO absent,blocking
+H0039426,nino_missing,NINO absent,blocking
+H0039432,dob_missing,date_of_birth='',advisory
+H0039455,dob_missing,date_of_birth='',advisory
+H0039456,nino_missing,NINO absent,blocking
+H0039483,address_incomplete,missing postcode,advisory
+H0039537,address_incomplete,missing address_line_1,advisory
+H0039561,nino_missing,NINO absent,blocking
+H0039570,dob_missing,date_of_birth='',advisory
+H0039609,dob_missing,date_of_birth='',advisory
+H0039618,dob_missing,date_of_birth='',advisory
+H0039640,address_incomplete,missing postcode,advisory
+H0039647,nino_missing,NINO absent,blocking
+H0039708,nino_missing,NINO absent,blocking
+H0039775,nino_malformed,NINO fails structure: bad_format,blocking
+H0039786,address_incomplete,missing postcode,advisory
+H0039801,nino_missing,NINO absent,blocking
+H0039829,address_incomplete,missing postcode,advisory
+H0039832,address_incomplete,missing address_line_1,advisory
+H0039836,address_incomplete,missing postcode,advisory
+H0039845,address_incomplete,missing postcode,advisory
+H0039857,nino_missing,NINO absent,blocking
+H0039867,nino_malformed,NINO fails structure: bad_format,blocking
+H0039890,address_incomplete,missing postcode,advisory
+H0039897,nino_missing,NINO absent,blocking
+H0039903,nino_malformed,NINO fails structure: suffix_blank,blocking
+H0039923,address_incomplete,missing address_line_1,advisory
+H0039924,nino_missing,NINO absent,blocking
+H0039940,dob_missing,date_of_birth='',advisory
+H0039941,nino_missing,NINO absent,blocking
+H0039941,address_incomplete,missing address_line_1,advisory
+H0039950,nino_missing,NINO absent,blocking
+H0039963,address_incomplete,missing postcode,advisory
+H0039982,nino_malformed,NINO fails structure: suffix_blank,blocking

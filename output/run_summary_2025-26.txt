@@ -1,0 +1,32 @@
+BBSI return 2025-26
+Tax year            2025-04-06 to 2026-04-05
+Filing deadline     2026-06-30 (+46 days from 2026-05-15)
+
+Postings received   320,548
+  in tax year       307,874
+  excluded by date  12,674 (£3,493,162.98)
+
+Holders             40,000
+  with exceptions   3,302
+  blocked           1,964
+Reportable persons  35,818
+Gross interest      £75,798,488.21
+
+Exception summary
+             check severity  holders  pct_of_population
+address_incomplete advisory      966              2.415
+       dob_missing advisory      465              1.162
+      nino_missing blocking     1227              3.068
+    nino_malformed blocking      737              1.842
+
+Reconciliation
+                                 line   amount_gbp
+ Ledger gross interest (all postings)  88391073.13
+        Postings outside the tax year  -3493162.98
+   Held back: blocking data exception  -3742181.26
+ISA interest (exempt, not reportable)  -5357240.71
+                   Reported on return -75798488.21
+                 Unexplained residual        -0.03
+                   Rounding tolerance       603.81
+
+Balanced within tolerance. Return is safe to file.
