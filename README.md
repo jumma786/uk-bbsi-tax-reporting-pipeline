@@ -20,6 +20,8 @@
 > [!IMPORTANT]
 > The public report uses official HMRC aggregate statistics. The granular holders, accounts, and postings are deterministic synthetic fixtures used only to test controls; no real names, NINOs, or bank records are included.
 
+**Related:** [Portfolio entry](https://jumma786.github.io/portfolio/#projects) · [Medium case study](https://medium.com/@jummamohammad477/building-a-uk-bbsi-reporting-pipeline-that-refuses-to-plug-the-difference-5f92b86e6946)
+
 ## Executive Summary
 
 This repository models the assurance layer around a UK Bank and Building Society Interest (BBSI) return. It focuses on the controls that determine whether an extract is trustworthy before anyone files it: date boundaries, identity completeness, joint-account allocation, exception severity, and ledger reconciliation.
