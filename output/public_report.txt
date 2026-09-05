@@ -1,0 +1,6 @@
+Public data BBSI report
+Source: HMRC Table 3.7, Property, interest, dividend and other income
+Tax year: 2017 to 2018
+Income-band rows: 13
+Interest covered: GBP 6,372 million
+Aggregate taxpayer statistics; no real names, NINOs, accounts, or postings.

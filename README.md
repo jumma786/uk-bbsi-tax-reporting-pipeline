@@ -135,7 +135,9 @@ nobody looks again.
 ```
 src/tax_year.py       UK tax year boundaries and the filing calendar
 src/nino.py           National Insurance number validation (HMRC structural rules)
-src/generate_data.py  seeded synthetic holders, accounts and interest postings
+src/generate_data.py  deterministic test fixture for pipeline rules
+src/public_data.py   HMRC public statistics loader
+src/run_public_report.py  reproducible public-data report runner
 src/validate.py       completeness checks, severity, the exception queue
 src/build_return.py   tax-year filter, joint-account allocation, submission extract
 src/reconcile.py      the waterfall, the derived tolerance, break analysis
@@ -152,10 +154,13 @@ summary, the reconciliation waterfall, and a run summary.
 
 Read this before citing anything above.
 
-- **The data is synthetic and seeded.** `generate_data.py` builds the holders, accounts and
+- **The pipeline test fixture is synthetic and seeded.** `generate_data.py` builds the holders, accounts and
   postings; there is no real customer data here and there could not be. What is genuine is
   the **process**: the tax-year boundary, the NINO rules, the severity model, the joint
   allocation, and the reconciliation discipline.
+- **The public report uses official HMRC statistics.** Run `python src/run_public_report.py`
+  to download and normalize HMRC Table 3.7. HMRC does not publish real account-level BBSI
+  records, names, NINOs, or postings, so the public runner does not invent those fields.
 - **Defect rates are injected deliberately** (`DEFECT_RATES`) so the validation stage has
   something known to find. The tests assert the pipeline recovers them. That makes the
   exception percentages a test of the pipeline, **not** an estimate of real-world data
